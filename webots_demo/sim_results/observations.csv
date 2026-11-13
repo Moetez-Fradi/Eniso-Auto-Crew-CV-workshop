@@ -1,0 +1,2377 @@
+frame,weather,sign_id,family,gt_dist_m,detected,pred_class,conf
+19,noon,0,Stop,40.0,False,,
+20,noon,0,Stop,39.5,False,,
+21,noon,0,Stop,39.0,False,,
+22,noon,0,Stop,38.5,False,,
+23,noon,0,Stop,38.0,False,,
+24,noon,0,Stop,37.5,False,,
+25,noon,0,Stop,37.0,False,,
+26,noon,0,Stop,36.5,False,,
+27,noon,0,Stop,36.0,False,,
+28,noon,0,Stop,35.5,False,,
+29,noon,0,Stop,35.0,False,,
+30,noon,0,Stop,34.5,False,,
+31,noon,0,Stop,34.0,False,,
+32,noon,0,Stop,33.5,False,,
+33,noon,0,Stop,33.0,False,,
+34,noon,0,Stop,32.5,False,,
+35,noon,0,Stop,32.0,True,Stop,0.547
+36,noon,0,Stop,31.5,True,Stop,0.732
+37,noon,0,Stop,31.0,False,,
+38,noon,0,Stop,30.5,True,Stop,0.457
+39,noon,0,Stop,30.0,True,Stop,0.5
+40,noon,0,Stop,29.5,True,Stop,0.63
+41,noon,0,Stop,29.0,True,Stop,0.668
+42,noon,0,Stop,28.5,True,Stop,0.724
+43,noon,0,Stop,28.0,True,Stop,0.682
+44,noon,0,Stop,27.5,True,Stop,0.787
+45,noon,0,Stop,27.0,True,Stop,0.758
+46,noon,0,Stop,26.5,True,Stop,0.757
+47,noon,0,Stop,26.0,True,Stop,0.859
+48,noon,0,Stop,25.5,True,Stop,0.866
+49,noon,0,Stop,25.0,True,Stop,0.862
+50,noon,0,Stop,24.5,True,Stop,0.86
+51,noon,0,Stop,24.0,True,Stop,0.828
+52,noon,0,Stop,23.5,True,Stop,0.84
+53,noon,0,Stop,23.0,True,Stop,0.879
+54,noon,0,Stop,22.5,True,Stop,0.8
+55,noon,0,Stop,22.0,True,Stop,0.855
+56,noon,0,Stop,21.5,True,Stop,0.873
+57,noon,0,Stop,21.0,True,Stop,0.863
+58,noon,0,Stop,20.5,True,Stop,0.851
+59,noon,0,Stop,20.0,True,Stop,0.84
+60,noon,0,Stop,19.5,True,Stop,0.866
+61,noon,0,Stop,19.0,True,Stop,0.853
+62,noon,0,Stop,18.5,True,Stop,0.825
+63,noon,0,Stop,18.0,True,Stop,0.867
+64,noon,0,Stop,17.5,True,Stop,0.828
+65,noon,0,Stop,17.0,True,Stop,0.872
+66,noon,0,Stop,16.5,True,Stop,0.867
+67,noon,0,Stop,16.0,True,Stop,0.858
+68,noon,0,Stop,15.5,True,Stop,0.858
+69,noon,0,Stop,15.0,True,Stop,0.865
+70,noon,0,Stop,14.5,True,Stop,0.838
+71,noon,0,Stop,14.0,True,Stop,0.833
+72,noon,0,Stop,13.5,True,Stop,0.878
+73,noon,0,Stop,13.0,True,Stop,0.873
+74,noon,0,Stop,12.5,True,Stop,0.88
+75,noon,0,Stop,12.0,True,Stop,0.874
+76,noon,0,Stop,11.5,True,Stop,0.861
+77,noon,0,Stop,11.0,True,Stop,0.849
+78,noon,0,Stop,10.5,True,Stop,0.89
+79,noon,0,Stop,10.0,True,Stop,0.889
+80,noon,0,Stop,9.5,True,Stop,0.885
+81,noon,0,Stop,9.0,True,Stop,0.882
+82,noon,0,Stop,8.5,True,Stop,0.895
+83,noon,0,Stop,8.0,True,Stop,0.889
+84,noon,0,Stop,7.5,True,Stop,0.894
+219,noon,2,Speed Limit 30,39.97,False,,
+220,noon,2,Speed Limit 30,39.47,False,,
+221,noon,2,Speed Limit 30,38.97,False,,
+222,noon,2,Speed Limit 30,38.47,False,,
+223,noon,2,Speed Limit 30,37.97,False,,
+224,noon,2,Speed Limit 30,37.47,False,,
+225,noon,2,Speed Limit 30,36.97,False,,
+226,noon,2,Speed Limit 30,36.47,False,,
+227,noon,2,Speed Limit 30,35.97,False,,
+228,noon,2,Speed Limit 30,35.47,False,,
+229,noon,2,Speed Limit 30,34.97,False,,
+230,noon,2,Speed Limit 30,34.47,False,,
+231,noon,2,Speed Limit 30,33.97,False,,
+232,noon,2,Speed Limit 30,33.47,False,,
+233,noon,2,Speed Limit 30,32.97,False,,
+234,noon,2,Speed Limit 30,32.47,False,,
+235,noon,2,Speed Limit 30,31.97,False,,
+236,noon,2,Speed Limit 30,31.47,False,,
+237,noon,2,Speed Limit 30,30.97,False,,
+238,noon,2,Speed Limit 30,30.47,False,,
+239,noon,2,Speed Limit 30,29.97,False,,
+240,noon,2,Speed Limit 30,29.47,False,,
+241,noon,2,Speed Limit 30,28.97,False,,
+242,noon,2,Speed Limit 30,28.47,False,,
+243,noon,2,Speed Limit 30,27.97,False,,
+244,noon,2,Speed Limit 30,27.47,False,,
+245,noon,2,Speed Limit 30,26.97,False,,
+246,noon,2,Speed Limit 30,26.47,False,,
+247,noon,2,Speed Limit 30,25.97,False,,
+248,noon,2,Speed Limit 30,25.47,False,,
+249,noon,2,Speed Limit 30,24.97,False,,
+250,noon,2,Speed Limit 30,24.47,False,,
+251,noon,2,Speed Limit 30,23.97,False,,
+252,noon,2,Speed Limit 30,23.47,False,,
+253,noon,2,Speed Limit 30,22.97,False,,
+254,noon,2,Speed Limit 30,22.47,False,,
+255,noon,2,Speed Limit 30,21.97,False,,
+256,noon,2,Speed Limit 30,21.47,False,,
+257,noon,2,Speed Limit 30,20.97,False,,
+258,noon,2,Speed Limit 30,20.47,False,,
+259,noon,2,Speed Limit 30,19.97,False,,
+260,noon,2,Speed Limit 30,19.47,False,,
+261,noon,2,Speed Limit 30,18.97,False,,
+262,noon,2,Speed Limit 30,18.47,False,,
+263,noon,2,Speed Limit 30,17.97,False,,
+264,noon,2,Speed Limit 30,17.47,False,,
+265,noon,2,Speed Limit 30,16.97,False,,
+266,noon,2,Speed Limit 30,16.47,False,,
+267,noon,2,Speed Limit 30,15.97,False,,
+268,noon,2,Speed Limit 30,15.47,True,Speed Limit 30,0.409
+269,noon,2,Speed Limit 30,14.97,False,,
+270,noon,2,Speed Limit 30,14.47,False,Speed Limit 50,0.418
+271,noon,2,Speed Limit 30,13.97,True,Speed Limit 30,0.842
+272,noon,2,Speed Limit 30,13.47,True,Speed Limit 30,0.85
+273,noon,2,Speed Limit 30,12.97,False,,
+274,noon,2,Speed Limit 30,12.47,True,Speed Limit 30,0.608
+275,noon,2,Speed Limit 30,11.97,True,Speed Limit 30,0.885
+276,noon,2,Speed Limit 30,11.47,True,Speed Limit 30,0.83
+277,noon,2,Speed Limit 30,10.97,True,Speed Limit 30,0.901
+278,noon,2,Speed Limit 30,10.47,True,Speed Limit 30,0.654
+279,noon,2,Speed Limit 30,9.97,True,Speed Limit 30,0.888
+280,noon,2,Speed Limit 30,9.47,True,Speed Limit 30,0.885
+281,noon,2,Speed Limit 30,8.97,True,Speed Limit 30,0.876
+282,noon,2,Speed Limit 30,8.47,True,Speed Limit 30,0.902
+283,noon,2,Speed Limit 30,7.97,True,Speed Limit 30,0.905
+284,noon,2,Speed Limit 30,7.47,True,Speed Limit 30,0.843
+319,noon,3,Give Way,40.0,True,Give Way,0.783
+320,noon,3,Give Way,39.5,True,Give Way,0.748
+321,noon,3,Give Way,39.0,True,Give Way,0.75
+322,noon,3,Give Way,38.5,True,Give Way,0.734
+323,noon,3,Give Way,38.0,True,Give Way,0.758
+324,noon,3,Give Way,37.5,True,Give Way,0.743
+325,noon,3,Give Way,37.0,True,Give Way,0.744
+326,noon,3,Give Way,36.5,True,Give Way,0.769
+327,noon,3,Give Way,36.0,True,Give Way,0.781
+328,noon,3,Give Way,35.5,True,Give Way,0.8
+329,noon,3,Give Way,35.0,True,Give Way,0.804
+330,noon,3,Give Way,34.5,True,Give Way,0.815
+331,noon,3,Give Way,34.0,True,Give Way,0.83
+332,noon,3,Give Way,33.5,True,Give Way,0.835
+333,noon,3,Give Way,33.0,True,Give Way,0.832
+334,noon,3,Give Way,32.5,True,Give Way,0.834
+335,noon,3,Give Way,32.0,True,Give Way,0.847
+336,noon,3,Give Way,31.5,True,Give Way,0.831
+337,noon,3,Give Way,31.0,True,Give Way,0.838
+338,noon,3,Give Way,30.5,True,Give Way,0.838
+339,noon,3,Give Way,30.0,True,Give Way,0.842
+340,noon,3,Give Way,29.5,True,Give Way,0.831
+341,noon,3,Give Way,29.0,True,Give Way,0.846
+342,noon,3,Give Way,28.5,True,Give Way,0.847
+343,noon,3,Give Way,28.0,True,Give Way,0.845
+344,noon,3,Give Way,27.5,True,Give Way,0.838
+345,noon,3,Give Way,27.0,True,Give Way,0.836
+346,noon,3,Give Way,26.5,True,Give Way,0.829
+347,noon,3,Give Way,26.0,True,Give Way,0.865
+348,noon,3,Give Way,25.5,True,Give Way,0.872
+349,noon,3,Give Way,25.0,True,Give Way,0.857
+350,noon,3,Give Way,24.5,True,Give Way,0.844
+351,noon,3,Give Way,24.0,True,Give Way,0.841
+352,noon,3,Give Way,23.5,True,Give Way,0.858
+353,noon,3,Give Way,23.0,True,Give Way,0.863
+354,noon,3,Give Way,22.5,True,Give Way,0.863
+355,noon,3,Give Way,22.0,True,Give Way,0.862
+356,noon,3,Give Way,21.5,True,Give Way,0.852
+357,noon,3,Give Way,21.0,True,Give Way,0.87
+358,noon,3,Give Way,20.5,True,Give Way,0.874
+359,noon,3,Give Way,20.0,True,Give Way,0.862
+360,noon,3,Give Way,19.5,True,Give Way,0.867
+361,noon,3,Give Way,19.0,True,Give Way,0.877
+362,noon,3,Give Way,18.5,True,Give Way,0.867
+363,noon,3,Give Way,18.0,True,Give Way,0.881
+364,noon,3,Give Way,17.5,True,Give Way,0.873
+365,noon,3,Give Way,17.0,True,Give Way,0.871
+366,noon,3,Give Way,16.5,True,Give Way,0.872
+367,noon,3,Give Way,16.0,True,Give Way,0.869
+368,noon,3,Give Way,15.5,True,Give Way,0.872
+369,noon,3,Give Way,15.0,True,Give Way,0.86
+370,noon,3,Give Way,14.5,True,Give Way,0.883
+371,noon,3,Give Way,14.0,True,Give Way,0.885
+372,noon,3,Give Way,13.5,True,Give Way,0.885
+373,noon,3,Give Way,13.0,True,Give Way,0.878
+374,noon,3,Give Way,12.5,True,Give Way,0.884
+375,noon,3,Give Way,12.0,True,Give Way,0.889
+376,noon,3,Give Way,11.5,True,Give Way,0.88
+377,noon,3,Give Way,11.0,True,Give Way,0.884
+378,noon,3,Give Way,10.5,True,Give Way,0.88
+379,noon,3,Give Way,10.0,True,Give Way,0.882
+380,noon,3,Give Way,9.5,True,Give Way,0.871
+381,noon,3,Give Way,9.0,True,Give Way,0.885
+382,noon,3,Give Way,8.5,True,Give Way,0.875
+383,noon,3,Give Way,8.0,True,Give Way,0.869
+384,noon,3,Give Way,7.5,True,Give Way,0.873
+519,noon,5,No Entry,39.97,False,,
+520,noon,5,No Entry,39.47,False,,
+521,noon,5,No Entry,38.97,False,,
+522,noon,5,No Entry,38.47,True,No Entry,0.593
+523,noon,5,No Entry,37.97,False,,
+524,noon,5,No Entry,37.47,False,,
+525,noon,5,No Entry,36.97,False,,
+526,noon,5,No Entry,36.47,True,No Entry,0.557
+527,noon,5,No Entry,35.97,True,No Entry,0.627
+528,noon,5,No Entry,35.47,True,No Entry,0.58
+529,noon,5,No Entry,34.97,True,No Entry,0.672
+530,noon,5,No Entry,34.47,True,No Entry,0.742
+531,noon,5,No Entry,33.97,True,No Entry,0.744
+532,noon,5,No Entry,33.47,True,No Entry,0.736
+533,noon,5,No Entry,32.97,True,No Entry,0.689
+534,noon,5,No Entry,32.47,True,No Entry,0.659
+535,noon,5,No Entry,31.97,False,,
+536,noon,5,No Entry,31.47,False,,
+537,noon,5,No Entry,30.97,False,,
+538,noon,5,No Entry,30.47,True,No Entry,0.654
+539,noon,5,No Entry,29.97,True,No Entry,0.726
+540,noon,5,No Entry,29.47,True,No Entry,0.732
+541,noon,5,No Entry,28.97,True,No Entry,0.758
+542,noon,5,No Entry,28.47,True,No Entry,0.628
+543,noon,5,No Entry,27.97,True,No Entry,0.495
+544,noon,5,No Entry,27.47,True,No Entry,0.708
+545,noon,5,No Entry,26.97,True,No Entry,0.747
+546,noon,5,No Entry,26.47,True,No Entry,0.815
+547,noon,5,No Entry,25.97,True,No Entry,0.808
+548,noon,5,No Entry,25.47,True,No Entry,0.779
+549,noon,5,No Entry,24.97,True,No Entry,0.815
+550,noon,5,No Entry,24.47,True,No Entry,0.826
+551,noon,5,No Entry,23.97,True,No Entry,0.835
+552,noon,5,No Entry,23.47,True,No Entry,0.819
+553,noon,5,No Entry,22.97,True,No Entry,0.831
+554,noon,5,No Entry,22.47,True,No Entry,0.83
+555,noon,5,No Entry,21.97,True,No Entry,0.832
+556,noon,5,No Entry,21.47,True,No Entry,0.842
+557,noon,5,No Entry,20.97,True,No Entry,0.829
+558,noon,5,No Entry,20.47,True,No Entry,0.843
+559,noon,5,No Entry,19.97,True,No Entry,0.85
+560,noon,5,No Entry,19.47,True,No Entry,0.827
+561,noon,5,No Entry,18.97,True,No Entry,0.872
+562,noon,5,No Entry,18.47,True,No Entry,0.837
+563,noon,5,No Entry,17.97,True,No Entry,0.847
+564,noon,5,No Entry,17.47,True,No Entry,0.843
+565,noon,5,No Entry,16.97,True,No Entry,0.858
+566,noon,5,No Entry,16.47,True,No Entry,0.851
+567,noon,5,No Entry,15.97,True,No Entry,0.859
+568,noon,5,No Entry,15.47,True,No Entry,0.85
+569,noon,5,No Entry,14.97,True,No Entry,0.853
+570,noon,5,No Entry,14.47,True,No Entry,0.857
+571,noon,5,No Entry,13.97,True,No Entry,0.867
+572,noon,5,No Entry,13.47,True,No Entry,0.868
+573,noon,5,No Entry,12.97,True,No Entry,0.856
+574,noon,5,No Entry,12.47,True,No Entry,0.859
+575,noon,5,No Entry,11.97,True,No Entry,0.869
+576,noon,5,No Entry,11.47,True,No Entry,0.866
+577,noon,5,No Entry,10.97,True,No Entry,0.89
+578,noon,5,No Entry,10.47,True,No Entry,0.895
+579,noon,5,No Entry,9.97,True,No Entry,0.883
+580,noon,5,No Entry,9.47,True,No Entry,0.894
+581,noon,5,No Entry,8.97,True,No Entry,0.9
+582,noon,5,No Entry,8.47,True,No Entry,0.89
+583,noon,5,No Entry,7.97,True,No Entry,0.894
+584,noon,5,No Entry,7.47,True,No Entry,0.883
+619,noon,6,Speed Limit 50,39.97,False,,
+620,noon,6,Speed Limit 50,39.47,False,,
+621,noon,6,Speed Limit 50,38.97,False,,
+622,noon,6,Speed Limit 50,38.47,False,,
+623,noon,6,Speed Limit 50,37.97,False,,
+624,noon,6,Speed Limit 50,37.47,False,,
+625,noon,6,Speed Limit 50,36.97,False,,
+626,noon,6,Speed Limit 50,36.47,False,,
+627,noon,6,Speed Limit 50,35.97,False,,
+628,noon,6,Speed Limit 50,35.47,False,,
+629,noon,6,Speed Limit 50,34.97,False,,
+630,noon,6,Speed Limit 50,34.47,False,,
+631,noon,6,Speed Limit 50,33.97,False,,
+632,noon,6,Speed Limit 50,33.47,False,,
+633,noon,6,Speed Limit 50,32.97,False,,
+634,noon,6,Speed Limit 50,32.47,False,,
+635,noon,6,Speed Limit 50,31.97,False,,
+636,noon,6,Speed Limit 50,31.47,False,,
+637,noon,6,Speed Limit 50,30.97,False,,
+638,noon,6,Speed Limit 50,30.47,False,,
+639,noon,6,Speed Limit 50,29.97,False,,
+640,noon,6,Speed Limit 50,29.47,False,,
+641,noon,6,Speed Limit 50,28.97,False,,
+642,noon,6,Speed Limit 50,28.47,False,,
+643,noon,6,Speed Limit 50,27.97,False,,
+644,noon,6,Speed Limit 50,27.47,False,,
+645,noon,6,Speed Limit 50,26.97,False,,
+646,noon,6,Speed Limit 50,26.47,False,,
+647,noon,6,Speed Limit 50,25.97,False,,
+648,noon,6,Speed Limit 50,25.47,False,,
+649,noon,6,Speed Limit 50,24.97,False,,
+650,noon,6,Speed Limit 50,24.47,False,,
+651,noon,6,Speed Limit 50,23.97,False,,
+652,noon,6,Speed Limit 50,23.47,False,,
+653,noon,6,Speed Limit 50,22.97,False,,
+654,noon,6,Speed Limit 50,22.47,False,,
+655,noon,6,Speed Limit 50,21.97,False,,
+656,noon,6,Speed Limit 50,21.47,False,,
+657,noon,6,Speed Limit 50,20.97,False,,
+658,noon,6,Speed Limit 50,20.47,False,,
+659,noon,6,Speed Limit 50,19.97,False,,
+660,noon,6,Speed Limit 50,19.47,False,,
+661,noon,6,Speed Limit 50,18.97,False,,
+662,noon,6,Speed Limit 50,18.47,False,,
+663,noon,6,Speed Limit 50,17.97,False,,
+664,noon,6,Speed Limit 50,17.47,False,,
+665,noon,6,Speed Limit 50,16.97,False,,
+666,noon,6,Speed Limit 50,16.47,False,,
+667,noon,6,Speed Limit 50,15.97,True,Speed Limit 50,0.795
+668,noon,6,Speed Limit 50,15.47,True,Speed Limit 50,0.755
+669,noon,6,Speed Limit 50,14.97,False,,
+670,noon,6,Speed Limit 50,14.47,True,Speed Limit 50,0.408
+671,noon,6,Speed Limit 50,13.97,True,Speed Limit 50,0.853
+672,noon,6,Speed Limit 50,13.47,True,Speed Limit 50,0.862
+673,noon,6,Speed Limit 50,12.97,True,Speed Limit 50,0.842
+674,noon,6,Speed Limit 50,12.47,True,Speed Limit 50,0.84
+675,noon,6,Speed Limit 50,11.97,True,Speed Limit 50,0.893
+676,noon,6,Speed Limit 50,11.47,True,Speed Limit 50,0.894
+677,noon,6,Speed Limit 50,10.97,True,Speed Limit 50,0.892
+678,noon,6,Speed Limit 50,10.47,True,Speed Limit 50,0.888
+679,noon,6,Speed Limit 50,9.97,True,Speed Limit 50,0.903
+680,noon,6,Speed Limit 50,9.47,True,Speed Limit 50,0.883
+681,noon,6,Speed Limit 50,8.97,True,Speed Limit 50,0.91
+682,noon,6,Speed Limit 50,8.47,True,Speed Limit 50,0.892
+683,noon,6,Speed Limit 50,7.97,True,Speed Limit 50,0.908
+684,noon,6,Speed Limit 50,7.47,True,Speed Limit 50,0.916
+819,noon,8,Keep Right,39.97,False,,
+820,noon,8,Keep Right,39.47,False,,
+821,noon,8,Keep Right,38.97,False,,
+822,noon,8,Keep Right,38.47,False,,
+823,noon,8,Keep Right,37.97,False,,
+824,noon,8,Keep Right,37.47,False,,
+825,noon,8,Keep Right,36.97,False,,
+826,noon,8,Keep Right,36.47,False,,
+827,noon,8,Keep Right,35.97,False,,
+828,noon,8,Keep Right,35.47,False,,
+829,noon,8,Keep Right,34.97,False,,
+830,noon,8,Keep Right,34.47,False,,
+831,noon,8,Keep Right,33.97,False,,
+832,noon,8,Keep Right,33.47,False,,
+833,noon,8,Keep Right,32.97,True,Keep Right,0.626
+834,noon,8,Keep Right,32.47,True,Keep Right,0.794
+835,noon,8,Keep Right,31.97,False,,
+836,noon,8,Keep Right,31.47,False,,
+837,noon,8,Keep Right,30.97,True,Keep Right,0.439
+838,noon,8,Keep Right,30.47,False,,
+839,noon,8,Keep Right,29.97,True,Keep Right,0.444
+840,noon,8,Keep Right,29.47,True,Keep Right,0.778
+841,noon,8,Keep Right,28.97,True,Keep Right,0.769
+842,noon,8,Keep Right,28.47,True,Keep Right,0.79
+843,noon,8,Keep Right,27.97,True,Keep Right,0.74
+844,noon,8,Keep Right,27.47,True,Keep Right,0.605
+845,noon,8,Keep Right,26.97,True,Keep Right,0.597
+846,noon,8,Keep Right,26.47,True,Keep Right,0.524
+847,noon,8,Keep Right,25.97,True,Keep Right,0.808
+848,noon,8,Keep Right,25.47,True,Keep Right,0.728
+849,noon,8,Keep Right,24.97,True,Keep Right,0.822
+850,noon,8,Keep Right,24.47,False,,
+851,noon,8,Keep Right,23.97,True,Keep Right,0.682
+852,noon,8,Keep Right,23.47,True,Keep Right,0.779
+853,noon,8,Keep Right,22.97,True,Keep Right,0.814
+854,noon,8,Keep Right,22.47,True,Keep Right,0.429
+855,noon,8,Keep Right,21.97,True,Keep Right,0.647
+856,noon,8,Keep Right,21.47,True,Keep Right,0.816
+857,noon,8,Keep Right,20.97,True,Keep Right,0.87
+858,noon,8,Keep Right,20.47,False,,
+859,noon,8,Keep Right,19.97,True,Keep Right,0.869
+860,noon,8,Keep Right,19.47,True,Keep Right,0.852
+861,noon,8,Keep Right,18.97,False,,
+862,noon,8,Keep Right,18.47,True,Keep Right,0.839
+863,noon,8,Keep Right,17.97,True,Keep Right,0.863
+864,noon,8,Keep Right,17.47,True,Keep Right,0.813
+865,noon,8,Keep Right,16.97,True,Keep Right,0.872
+866,noon,8,Keep Right,16.47,True,Keep Right,0.872
+867,noon,8,Keep Right,15.97,True,Keep Right,0.871
+868,noon,8,Keep Right,15.47,True,Keep Right,0.878
+869,noon,8,Keep Right,14.97,True,Keep Right,0.864
+870,noon,8,Keep Right,14.47,True,Keep Right,0.875
+871,noon,8,Keep Right,13.97,True,Keep Right,0.888
+872,noon,8,Keep Right,13.47,True,Keep Right,0.882
+873,noon,8,Keep Right,12.97,True,Keep Right,0.881
+874,noon,8,Keep Right,12.47,True,Keep Right,0.867
+875,noon,8,Keep Right,11.97,True,Keep Right,0.869
+876,noon,8,Keep Right,11.47,True,Keep Right,0.881
+877,noon,8,Keep Right,10.97,True,Keep Right,0.872
+878,noon,8,Keep Right,10.47,True,Keep Right,0.89
+879,noon,8,Keep Right,9.97,True,Keep Right,0.9
+880,noon,8,Keep Right,9.47,True,Keep Right,0.895
+881,noon,8,Keep Right,8.97,True,Keep Right,0.905
+882,noon,8,Keep Right,8.47,True,Keep Right,0.91
+883,noon,8,Keep Right,7.97,True,Keep Right,0.905
+884,noon,8,Keep Right,7.47,True,Keep Right,0.883
+19,overcast,0,Stop,40.0,False,,
+20,overcast,0,Stop,39.5,False,,
+21,overcast,0,Stop,39.0,False,,
+22,overcast,0,Stop,38.5,False,,
+23,overcast,0,Stop,38.0,False,,
+24,overcast,0,Stop,37.5,False,,
+25,overcast,0,Stop,37.0,False,,
+26,overcast,0,Stop,36.5,False,,
+27,overcast,0,Stop,36.0,False,,
+28,overcast,0,Stop,35.5,False,,
+29,overcast,0,Stop,35.0,False,,
+30,overcast,0,Stop,34.5,False,,
+31,overcast,0,Stop,34.0,False,,
+32,overcast,0,Stop,33.5,False,,
+33,overcast,0,Stop,33.0,False,,
+34,overcast,0,Stop,32.5,False,,
+35,overcast,0,Stop,32.0,True,Stop,0.586
+36,overcast,0,Stop,31.5,True,Stop,0.8
+37,overcast,0,Stop,31.0,True,Stop,0.629
+38,overcast,0,Stop,30.5,True,Stop,0.777
+39,overcast,0,Stop,30.0,True,Stop,0.759
+40,overcast,0,Stop,29.5,True,Stop,0.789
+41,overcast,0,Stop,29.0,True,Stop,0.835
+42,overcast,0,Stop,28.5,True,Stop,0.825
+43,overcast,0,Stop,28.0,True,Stop,0.819
+44,overcast,0,Stop,27.5,True,Stop,0.869
+45,overcast,0,Stop,27.0,True,Stop,0.842
+46,overcast,0,Stop,26.5,True,Stop,0.803
+47,overcast,0,Stop,26.0,True,Stop,0.866
+48,overcast,0,Stop,25.5,True,Stop,0.891
+49,overcast,0,Stop,25.0,True,Stop,0.877
+50,overcast,0,Stop,24.5,True,Stop,0.868
+51,overcast,0,Stop,24.0,True,Stop,0.854
+52,overcast,0,Stop,23.5,True,Stop,0.869
+53,overcast,0,Stop,23.0,True,Stop,0.877
+54,overcast,0,Stop,22.5,True,Stop,0.847
+55,overcast,0,Stop,22.0,True,Stop,0.861
+56,overcast,0,Stop,21.5,True,Stop,0.868
+57,overcast,0,Stop,21.0,True,Stop,0.869
+58,overcast,0,Stop,20.5,True,Stop,0.857
+59,overcast,0,Stop,20.0,True,Stop,0.847
+60,overcast,0,Stop,19.5,True,Stop,0.869
+61,overcast,0,Stop,19.0,True,Stop,0.87
+62,overcast,0,Stop,18.5,True,Stop,0.838
+63,overcast,0,Stop,18.0,True,Stop,0.866
+64,overcast,0,Stop,17.5,True,Stop,0.839
+65,overcast,0,Stop,17.0,True,Stop,0.866
+66,overcast,0,Stop,16.5,True,Stop,0.873
+67,overcast,0,Stop,16.0,True,Stop,0.847
+68,overcast,0,Stop,15.5,True,Stop,0.845
+69,overcast,0,Stop,15.0,True,Stop,0.861
+70,overcast,0,Stop,14.5,True,Stop,0.833
+71,overcast,0,Stop,14.0,True,Stop,0.866
+72,overcast,0,Stop,13.5,True,Stop,0.875
+73,overcast,0,Stop,13.0,True,Stop,0.873
+74,overcast,0,Stop,12.5,True,Stop,0.879
+75,overcast,0,Stop,12.0,True,Stop,0.877
+76,overcast,0,Stop,11.5,True,Stop,0.874
+77,overcast,0,Stop,11.0,True,Stop,0.876
+78,overcast,0,Stop,10.5,True,Stop,0.889
+79,overcast,0,Stop,10.0,True,Stop,0.887
+80,overcast,0,Stop,9.5,True,Stop,0.882
+81,overcast,0,Stop,9.0,True,Stop,0.879
+82,overcast,0,Stop,8.5,True,Stop,0.897
+83,overcast,0,Stop,8.0,True,Stop,0.895
+84,overcast,0,Stop,7.5,True,Stop,0.895
+219,overcast,2,Speed Limit 30,39.97,False,,
+220,overcast,2,Speed Limit 30,39.47,False,,
+221,overcast,2,Speed Limit 30,38.97,False,,
+222,overcast,2,Speed Limit 30,38.47,False,,
+223,overcast,2,Speed Limit 30,37.97,False,,
+224,overcast,2,Speed Limit 30,37.47,False,,
+225,overcast,2,Speed Limit 30,36.97,False,,
+226,overcast,2,Speed Limit 30,36.47,False,,
+227,overcast,2,Speed Limit 30,35.97,False,,
+228,overcast,2,Speed Limit 30,35.47,False,,
+229,overcast,2,Speed Limit 30,34.97,False,,
+230,overcast,2,Speed Limit 30,34.47,False,,
+231,overcast,2,Speed Limit 30,33.97,False,,
+232,overcast,2,Speed Limit 30,33.47,False,,
+233,overcast,2,Speed Limit 30,32.97,False,,
+234,overcast,2,Speed Limit 30,32.47,False,,
+235,overcast,2,Speed Limit 30,31.97,False,,
+236,overcast,2,Speed Limit 30,31.47,False,,
+237,overcast,2,Speed Limit 30,30.97,False,,
+238,overcast,2,Speed Limit 30,30.47,False,,
+239,overcast,2,Speed Limit 30,29.97,False,,
+240,overcast,2,Speed Limit 30,29.47,False,,
+241,overcast,2,Speed Limit 30,28.97,False,,
+242,overcast,2,Speed Limit 30,28.47,False,,
+243,overcast,2,Speed Limit 30,27.97,False,,
+244,overcast,2,Speed Limit 30,27.47,False,,
+245,overcast,2,Speed Limit 30,26.97,False,,
+246,overcast,2,Speed Limit 30,26.47,False,,
+247,overcast,2,Speed Limit 30,25.97,False,,
+248,overcast,2,Speed Limit 30,25.47,False,,
+249,overcast,2,Speed Limit 30,24.97,False,,
+250,overcast,2,Speed Limit 30,24.47,False,,
+251,overcast,2,Speed Limit 30,23.97,False,,
+252,overcast,2,Speed Limit 30,23.47,False,,
+253,overcast,2,Speed Limit 30,22.97,False,,
+254,overcast,2,Speed Limit 30,22.47,False,,
+255,overcast,2,Speed Limit 30,21.97,False,,
+256,overcast,2,Speed Limit 30,21.47,False,,
+257,overcast,2,Speed Limit 30,20.97,False,,
+258,overcast,2,Speed Limit 30,20.47,False,,
+259,overcast,2,Speed Limit 30,19.97,False,,
+260,overcast,2,Speed Limit 30,19.47,False,,
+261,overcast,2,Speed Limit 30,18.97,False,,
+262,overcast,2,Speed Limit 30,18.47,False,,
+263,overcast,2,Speed Limit 30,17.97,False,,
+264,overcast,2,Speed Limit 30,17.47,False,,
+265,overcast,2,Speed Limit 30,16.97,False,,
+266,overcast,2,Speed Limit 30,16.47,False,,
+267,overcast,2,Speed Limit 30,15.97,False,Speed Limit 50,0.677
+268,overcast,2,Speed Limit 30,15.47,False,,
+269,overcast,2,Speed Limit 30,14.97,False,,
+270,overcast,2,Speed Limit 30,14.47,False,Speed Limit 50,0.818
+271,overcast,2,Speed Limit 30,13.97,True,Speed Limit 30,0.845
+272,overcast,2,Speed Limit 30,13.47,True,Speed Limit 30,0.878
+273,overcast,2,Speed Limit 30,12.97,False,Speed Limit 50,0.401
+274,overcast,2,Speed Limit 30,12.47,False,Speed Limit 50,0.604
+275,overcast,2,Speed Limit 30,11.97,True,Speed Limit 30,0.882
+276,overcast,2,Speed Limit 30,11.47,True,Speed Limit 30,0.84
+277,overcast,2,Speed Limit 30,10.97,True,Speed Limit 30,0.888
+278,overcast,2,Speed Limit 30,10.47,True,Speed Limit 30,0.69
+279,overcast,2,Speed Limit 30,9.97,True,Speed Limit 30,0.888
+280,overcast,2,Speed Limit 30,9.47,True,Speed Limit 30,0.881
+281,overcast,2,Speed Limit 30,8.97,True,Speed Limit 30,0.872
+282,overcast,2,Speed Limit 30,8.47,True,Speed Limit 30,0.906
+283,overcast,2,Speed Limit 30,7.97,True,Speed Limit 30,0.91
+284,overcast,2,Speed Limit 30,7.47,True,Speed Limit 30,0.852
+319,overcast,3,Give Way,40.0,True,Give Way,0.798
+320,overcast,3,Give Way,39.5,True,Give Way,0.77
+321,overcast,3,Give Way,39.0,True,Give Way,0.76
+322,overcast,3,Give Way,38.5,True,Give Way,0.731
+323,overcast,3,Give Way,38.0,True,Give Way,0.752
+324,overcast,3,Give Way,37.5,True,Give Way,0.747
+325,overcast,3,Give Way,37.0,True,Give Way,0.757
+326,overcast,3,Give Way,36.5,True,Give Way,0.769
+327,overcast,3,Give Way,36.0,True,Give Way,0.783
+328,overcast,3,Give Way,35.5,True,Give Way,0.806
+329,overcast,3,Give Way,35.0,True,Give Way,0.81
+330,overcast,3,Give Way,34.5,True,Give Way,0.83
+331,overcast,3,Give Way,34.0,True,Give Way,0.834
+332,overcast,3,Give Way,33.5,True,Give Way,0.834
+333,overcast,3,Give Way,33.0,True,Give Way,0.833
+334,overcast,3,Give Way,32.5,True,Give Way,0.838
+335,overcast,3,Give Way,32.0,True,Give Way,0.844
+336,overcast,3,Give Way,31.5,True,Give Way,0.829
+337,overcast,3,Give Way,31.0,True,Give Way,0.842
+338,overcast,3,Give Way,30.5,True,Give Way,0.842
+339,overcast,3,Give Way,30.0,True,Give Way,0.84
+340,overcast,3,Give Way,29.5,True,Give Way,0.837
+341,overcast,3,Give Way,29.0,True,Give Way,0.855
+342,overcast,3,Give Way,28.5,True,Give Way,0.853
+343,overcast,3,Give Way,28.0,True,Give Way,0.848
+344,overcast,3,Give Way,27.5,True,Give Way,0.841
+345,overcast,3,Give Way,27.0,True,Give Way,0.833
+346,overcast,3,Give Way,26.5,True,Give Way,0.827
+347,overcast,3,Give Way,26.0,True,Give Way,0.867
+348,overcast,3,Give Way,25.5,True,Give Way,0.865
+349,overcast,3,Give Way,25.0,True,Give Way,0.851
+350,overcast,3,Give Way,24.5,True,Give Way,0.842
+351,overcast,3,Give Way,24.0,True,Give Way,0.848
+352,overcast,3,Give Way,23.5,True,Give Way,0.866
+353,overcast,3,Give Way,23.0,True,Give Way,0.866
+354,overcast,3,Give Way,22.5,True,Give Way,0.859
+355,overcast,3,Give Way,22.0,True,Give Way,0.862
+356,overcast,3,Give Way,21.5,True,Give Way,0.856
+357,overcast,3,Give Way,21.0,True,Give Way,0.862
+358,overcast,3,Give Way,20.5,True,Give Way,0.87
+359,overcast,3,Give Way,20.0,True,Give Way,0.859
+360,overcast,3,Give Way,19.5,True,Give Way,0.863
+361,overcast,3,Give Way,19.0,True,Give Way,0.877
+362,overcast,3,Give Way,18.5,True,Give Way,0.867
+363,overcast,3,Give Way,18.0,True,Give Way,0.878
+364,overcast,3,Give Way,17.5,True,Give Way,0.87
+365,overcast,3,Give Way,17.0,True,Give Way,0.87
+366,overcast,3,Give Way,16.5,True,Give Way,0.871
+367,overcast,3,Give Way,16.0,True,Give Way,0.874
+368,overcast,3,Give Way,15.5,True,Give Way,0.88
+369,overcast,3,Give Way,15.0,True,Give Way,0.866
+370,overcast,3,Give Way,14.5,True,Give Way,0.882
+371,overcast,3,Give Way,14.0,True,Give Way,0.885
+372,overcast,3,Give Way,13.5,True,Give Way,0.881
+373,overcast,3,Give Way,13.0,True,Give Way,0.881
+374,overcast,3,Give Way,12.5,True,Give Way,0.884
+375,overcast,3,Give Way,12.0,True,Give Way,0.888
+376,overcast,3,Give Way,11.5,True,Give Way,0.882
+377,overcast,3,Give Way,11.0,True,Give Way,0.884
+378,overcast,3,Give Way,10.5,True,Give Way,0.879
+379,overcast,3,Give Way,10.0,True,Give Way,0.881
+380,overcast,3,Give Way,9.5,True,Give Way,0.874
+381,overcast,3,Give Way,9.0,True,Give Way,0.885
+382,overcast,3,Give Way,8.5,True,Give Way,0.872
+383,overcast,3,Give Way,8.0,True,Give Way,0.87
+384,overcast,3,Give Way,7.5,True,Give Way,0.876
+519,overcast,5,No Entry,39.97,False,,
+520,overcast,5,No Entry,39.47,False,,
+521,overcast,5,No Entry,38.97,False,,
+522,overcast,5,No Entry,38.47,True,No Entry,0.503
+523,overcast,5,No Entry,37.97,False,,
+524,overcast,5,No Entry,37.47,False,,
+525,overcast,5,No Entry,36.97,False,,
+526,overcast,5,No Entry,36.47,True,No Entry,0.56
+527,overcast,5,No Entry,35.97,True,No Entry,0.578
+528,overcast,5,No Entry,35.47,True,No Entry,0.621
+529,overcast,5,No Entry,34.97,True,No Entry,0.696
+530,overcast,5,No Entry,34.47,True,No Entry,0.758
+531,overcast,5,No Entry,33.97,True,No Entry,0.754
+532,overcast,5,No Entry,33.47,True,No Entry,0.745
+533,overcast,5,No Entry,32.97,True,No Entry,0.699
+534,overcast,5,No Entry,32.47,True,No Entry,0.685
+535,overcast,5,No Entry,31.97,True,No Entry,0.428
+536,overcast,5,No Entry,31.47,False,,
+537,overcast,5,No Entry,30.97,False,,
+538,overcast,5,No Entry,30.47,True,No Entry,0.689
+539,overcast,5,No Entry,29.97,True,No Entry,0.759
+540,overcast,5,No Entry,29.47,True,No Entry,0.776
+541,overcast,5,No Entry,28.97,True,No Entry,0.787
+542,overcast,5,No Entry,28.47,True,No Entry,0.745
+543,overcast,5,No Entry,27.97,True,No Entry,0.67
+544,overcast,5,No Entry,27.47,True,No Entry,0.74
+545,overcast,5,No Entry,26.97,True,No Entry,0.778
+546,overcast,5,No Entry,26.47,True,No Entry,0.818
+547,overcast,5,No Entry,25.97,True,No Entry,0.812
+548,overcast,5,No Entry,25.47,True,No Entry,0.791
+549,overcast,5,No Entry,24.97,True,No Entry,0.82
+550,overcast,5,No Entry,24.47,True,No Entry,0.819
+551,overcast,5,No Entry,23.97,True,No Entry,0.841
+552,overcast,5,No Entry,23.47,True,No Entry,0.821
+553,overcast,5,No Entry,22.97,True,No Entry,0.826
+554,overcast,5,No Entry,22.47,True,No Entry,0.825
+555,overcast,5,No Entry,21.97,True,No Entry,0.827
+556,overcast,5,No Entry,21.47,True,No Entry,0.845
+557,overcast,5,No Entry,20.97,True,No Entry,0.836
+558,overcast,5,No Entry,20.47,True,No Entry,0.845
+559,overcast,5,No Entry,19.97,True,No Entry,0.85
+560,overcast,5,No Entry,19.47,True,No Entry,0.839
+561,overcast,5,No Entry,18.97,True,No Entry,0.88
+562,overcast,5,No Entry,18.47,True,No Entry,0.838
+563,overcast,5,No Entry,17.97,True,No Entry,0.853
+564,overcast,5,No Entry,17.47,True,No Entry,0.848
+565,overcast,5,No Entry,16.97,True,No Entry,0.86
+566,overcast,5,No Entry,16.47,True,No Entry,0.855
+567,overcast,5,No Entry,15.97,True,No Entry,0.867
+568,overcast,5,No Entry,15.47,True,No Entry,0.855
+569,overcast,5,No Entry,14.97,True,No Entry,0.858
+570,overcast,5,No Entry,14.47,True,No Entry,0.861
+571,overcast,5,No Entry,13.97,True,No Entry,0.876
+572,overcast,5,No Entry,13.47,True,No Entry,0.877
+573,overcast,5,No Entry,12.97,True,No Entry,0.869
+574,overcast,5,No Entry,12.47,True,No Entry,0.877
+575,overcast,5,No Entry,11.97,True,No Entry,0.879
+576,overcast,5,No Entry,11.47,True,No Entry,0.873
+577,overcast,5,No Entry,10.97,True,No Entry,0.889
+578,overcast,5,No Entry,10.47,True,No Entry,0.9
+579,overcast,5,No Entry,9.97,True,No Entry,0.89
+580,overcast,5,No Entry,9.47,True,No Entry,0.892
+581,overcast,5,No Entry,8.97,True,No Entry,0.905
+582,overcast,5,No Entry,8.47,True,No Entry,0.894
+583,overcast,5,No Entry,7.97,True,No Entry,0.898
+584,overcast,5,No Entry,7.47,True,No Entry,0.892
+619,overcast,6,Speed Limit 50,39.97,False,,
+620,overcast,6,Speed Limit 50,39.47,False,,
+621,overcast,6,Speed Limit 50,38.97,False,,
+622,overcast,6,Speed Limit 50,38.47,False,,
+623,overcast,6,Speed Limit 50,37.97,False,,
+624,overcast,6,Speed Limit 50,37.47,False,,
+625,overcast,6,Speed Limit 50,36.97,False,,
+626,overcast,6,Speed Limit 50,36.47,False,,
+627,overcast,6,Speed Limit 50,35.97,False,,
+628,overcast,6,Speed Limit 50,35.47,False,,
+629,overcast,6,Speed Limit 50,34.97,False,,
+630,overcast,6,Speed Limit 50,34.47,False,,
+631,overcast,6,Speed Limit 50,33.97,False,,
+632,overcast,6,Speed Limit 50,33.47,False,,
+633,overcast,6,Speed Limit 50,32.97,False,,
+634,overcast,6,Speed Limit 50,32.47,False,,
+635,overcast,6,Speed Limit 50,31.97,False,,
+636,overcast,6,Speed Limit 50,31.47,False,,
+637,overcast,6,Speed Limit 50,30.97,False,,
+638,overcast,6,Speed Limit 50,30.47,False,,
+639,overcast,6,Speed Limit 50,29.97,False,,
+640,overcast,6,Speed Limit 50,29.47,False,,
+641,overcast,6,Speed Limit 50,28.97,False,,
+642,overcast,6,Speed Limit 50,28.47,False,,
+643,overcast,6,Speed Limit 50,27.97,False,,
+644,overcast,6,Speed Limit 50,27.47,False,,
+645,overcast,6,Speed Limit 50,26.97,False,,
+646,overcast,6,Speed Limit 50,26.47,False,,
+647,overcast,6,Speed Limit 50,25.97,False,,
+648,overcast,6,Speed Limit 50,25.47,False,,
+649,overcast,6,Speed Limit 50,24.97,False,,
+650,overcast,6,Speed Limit 50,24.47,False,,
+651,overcast,6,Speed Limit 50,23.97,False,,
+652,overcast,6,Speed Limit 50,23.47,False,,
+653,overcast,6,Speed Limit 50,22.97,False,,
+654,overcast,6,Speed Limit 50,22.47,False,,
+655,overcast,6,Speed Limit 50,21.97,False,,
+656,overcast,6,Speed Limit 50,21.47,False,,
+657,overcast,6,Speed Limit 50,20.97,False,,
+658,overcast,6,Speed Limit 50,20.47,False,,
+659,overcast,6,Speed Limit 50,19.97,False,,
+660,overcast,6,Speed Limit 50,19.47,False,,
+661,overcast,6,Speed Limit 50,18.97,False,,
+662,overcast,6,Speed Limit 50,18.47,False,,
+663,overcast,6,Speed Limit 50,17.97,False,,
+664,overcast,6,Speed Limit 50,17.47,False,,
+665,overcast,6,Speed Limit 50,16.97,False,,
+666,overcast,6,Speed Limit 50,16.47,False,,
+667,overcast,6,Speed Limit 50,15.97,True,Speed Limit 50,0.824
+668,overcast,6,Speed Limit 50,15.47,True,Speed Limit 50,0.763
+669,overcast,6,Speed Limit 50,14.97,True,Speed Limit 50,0.551
+670,overcast,6,Speed Limit 50,14.47,True,Speed Limit 50,0.735
+671,overcast,6,Speed Limit 50,13.97,True,Speed Limit 50,0.848
+672,overcast,6,Speed Limit 50,13.47,True,Speed Limit 50,0.881
+673,overcast,6,Speed Limit 50,12.97,True,Speed Limit 50,0.869
+674,overcast,6,Speed Limit 50,12.47,True,Speed Limit 50,0.871
+675,overcast,6,Speed Limit 50,11.97,True,Speed Limit 50,0.898
+676,overcast,6,Speed Limit 50,11.47,True,Speed Limit 50,0.898
+677,overcast,6,Speed Limit 50,10.97,True,Speed Limit 50,0.889
+678,overcast,6,Speed Limit 50,10.47,True,Speed Limit 50,0.898
+679,overcast,6,Speed Limit 50,9.97,True,Speed Limit 50,0.901
+680,overcast,6,Speed Limit 50,9.47,True,Speed Limit 50,0.876
+681,overcast,6,Speed Limit 50,8.97,True,Speed Limit 50,0.906
+682,overcast,6,Speed Limit 50,8.47,True,Speed Limit 50,0.891
+683,overcast,6,Speed Limit 50,7.97,True,Speed Limit 50,0.904
+684,overcast,6,Speed Limit 50,7.47,True,Speed Limit 50,0.916
+819,overcast,8,Keep Right,39.97,False,,
+820,overcast,8,Keep Right,39.47,False,,
+821,overcast,8,Keep Right,38.97,False,,
+822,overcast,8,Keep Right,38.47,False,,
+823,overcast,8,Keep Right,37.97,False,,
+824,overcast,8,Keep Right,37.47,False,,
+825,overcast,8,Keep Right,36.97,False,,
+826,overcast,8,Keep Right,36.47,False,,
+827,overcast,8,Keep Right,35.97,False,,
+828,overcast,8,Keep Right,35.47,False,,
+829,overcast,8,Keep Right,34.97,False,,
+830,overcast,8,Keep Right,34.47,False,,
+831,overcast,8,Keep Right,33.97,False,,
+832,overcast,8,Keep Right,33.47,False,,
+833,overcast,8,Keep Right,32.97,True,Keep Right,0.738
+834,overcast,8,Keep Right,32.47,True,Keep Right,0.816
+835,overcast,8,Keep Right,31.97,False,,
+836,overcast,8,Keep Right,31.47,False,,
+837,overcast,8,Keep Right,30.97,True,Keep Right,0.692
+838,overcast,8,Keep Right,30.47,False,,
+839,overcast,8,Keep Right,29.97,True,Keep Right,0.62
+840,overcast,8,Keep Right,29.47,True,Keep Right,0.818
+841,overcast,8,Keep Right,28.97,True,Keep Right,0.804
+842,overcast,8,Keep Right,28.47,True,Keep Right,0.816
+843,overcast,8,Keep Right,27.97,True,Keep Right,0.817
+844,overcast,8,Keep Right,27.47,True,Keep Right,0.785
+845,overcast,8,Keep Right,26.97,True,Keep Right,0.734
+846,overcast,8,Keep Right,26.47,True,Keep Right,0.734
+847,overcast,8,Keep Right,25.97,True,Keep Right,0.835
+848,overcast,8,Keep Right,25.47,True,Keep Right,0.838
+849,overcast,8,Keep Right,24.97,True,Keep Right,0.848
+850,overcast,8,Keep Right,24.47,True,Keep Right,0.703
+851,overcast,8,Keep Right,23.97,True,Keep Right,0.782
+852,overcast,8,Keep Right,23.47,True,Keep Right,0.825
+853,overcast,8,Keep Right,22.97,True,Keep Right,0.837
+854,overcast,8,Keep Right,22.47,True,Keep Right,0.574
+855,overcast,8,Keep Right,21.97,True,Keep Right,0.767
+856,overcast,8,Keep Right,21.47,True,Keep Right,0.847
+857,overcast,8,Keep Right,20.97,True,Keep Right,0.871
+858,overcast,8,Keep Right,20.47,False,,
+859,overcast,8,Keep Right,19.97,True,Keep Right,0.878
+860,overcast,8,Keep Right,19.47,True,Keep Right,0.857
+861,overcast,8,Keep Right,18.97,True,Keep Right,0.508
+862,overcast,8,Keep Right,18.47,True,Keep Right,0.848
+863,overcast,8,Keep Right,17.97,True,Keep Right,0.87
+864,overcast,8,Keep Right,17.47,True,Keep Right,0.852
+865,overcast,8,Keep Right,16.97,True,Keep Right,0.869
+866,overcast,8,Keep Right,16.47,True,Keep Right,0.876
+867,overcast,8,Keep Right,15.97,True,Keep Right,0.864
+868,overcast,8,Keep Right,15.47,True,Keep Right,0.881
+869,overcast,8,Keep Right,14.97,True,Keep Right,0.875
+870,overcast,8,Keep Right,14.47,True,Keep Right,0.878
+871,overcast,8,Keep Right,13.97,True,Keep Right,0.895
+872,overcast,8,Keep Right,13.47,True,Keep Right,0.898
+873,overcast,8,Keep Right,12.97,True,Keep Right,0.878
+874,overcast,8,Keep Right,12.47,True,Keep Right,0.88
+875,overcast,8,Keep Right,11.97,True,Keep Right,0.891
+876,overcast,8,Keep Right,11.47,True,Keep Right,0.889
+877,overcast,8,Keep Right,10.97,True,Keep Right,0.887
+878,overcast,8,Keep Right,10.47,True,Keep Right,0.893
+879,overcast,8,Keep Right,9.97,True,Keep Right,0.897
+880,overcast,8,Keep Right,9.47,True,Keep Right,0.898
+881,overcast,8,Keep Right,8.97,True,Keep Right,0.91
+882,overcast,8,Keep Right,8.47,True,Keep Right,0.912
+883,overcast,8,Keep Right,7.97,True,Keep Right,0.907
+884,overcast,8,Keep Right,7.47,True,Keep Right,0.903
+19,dusk,0,Stop,40.0,False,,
+20,dusk,0,Stop,39.5,False,,
+21,dusk,0,Stop,39.0,False,,
+22,dusk,0,Stop,38.5,False,,
+23,dusk,0,Stop,38.0,False,,
+24,dusk,0,Stop,37.5,False,,
+25,dusk,0,Stop,37.0,False,,
+26,dusk,0,Stop,36.5,False,,
+27,dusk,0,Stop,36.0,False,,
+28,dusk,0,Stop,35.5,False,,
+29,dusk,0,Stop,35.0,False,,
+30,dusk,0,Stop,34.5,False,,
+31,dusk,0,Stop,34.0,False,,
+32,dusk,0,Stop,33.5,False,,
+33,dusk,0,Stop,33.0,False,,
+34,dusk,0,Stop,32.5,False,,
+35,dusk,0,Stop,32.0,False,,
+36,dusk,0,Stop,31.5,True,Stop,0.787
+37,dusk,0,Stop,31.0,True,Stop,0.657
+38,dusk,0,Stop,30.5,True,Stop,0.763
+39,dusk,0,Stop,30.0,True,Stop,0.731
+40,dusk,0,Stop,29.5,True,Stop,0.831
+41,dusk,0,Stop,29.0,True,Stop,0.854
+42,dusk,0,Stop,28.5,True,Stop,0.813
+43,dusk,0,Stop,28.0,True,Stop,0.805
+44,dusk,0,Stop,27.5,True,Stop,0.869
+45,dusk,0,Stop,27.0,True,Stop,0.793
+46,dusk,0,Stop,26.5,True,Stop,0.836
+47,dusk,0,Stop,26.0,True,Stop,0.858
+48,dusk,0,Stop,25.5,True,Stop,0.889
+49,dusk,0,Stop,25.0,True,Stop,0.872
+50,dusk,0,Stop,24.5,True,Stop,0.869
+51,dusk,0,Stop,24.0,True,Stop,0.8
+52,dusk,0,Stop,23.5,True,Stop,0.864
+53,dusk,0,Stop,23.0,True,Stop,0.86
+54,dusk,0,Stop,22.5,True,Stop,0.787
+55,dusk,0,Stop,22.0,True,Stop,0.856
+56,dusk,0,Stop,21.5,True,Stop,0.851
+57,dusk,0,Stop,21.0,True,Stop,0.666
+58,dusk,0,Stop,20.5,True,Stop,0.857
+59,dusk,0,Stop,20.0,True,Stop,0.85
+60,dusk,0,Stop,19.5,True,Stop,0.862
+61,dusk,0,Stop,19.0,True,Stop,0.869
+62,dusk,0,Stop,18.5,True,Stop,0.833
+63,dusk,0,Stop,18.0,True,Stop,0.861
+64,dusk,0,Stop,17.5,True,Stop,0.855
+65,dusk,0,Stop,17.0,True,Stop,0.857
+66,dusk,0,Stop,16.5,True,Stop,0.885
+67,dusk,0,Stop,16.0,True,Stop,0.841
+68,dusk,0,Stop,15.5,True,Stop,0.862
+69,dusk,0,Stop,15.0,True,Stop,0.857
+70,dusk,0,Stop,14.5,True,Stop,0.836
+71,dusk,0,Stop,14.0,True,Stop,0.871
+72,dusk,0,Stop,13.5,True,Stop,0.87
+73,dusk,0,Stop,13.0,True,Stop,0.872
+74,dusk,0,Stop,12.5,True,Stop,0.866
+75,dusk,0,Stop,12.0,True,Stop,0.88
+76,dusk,0,Stop,11.5,True,Stop,0.864
+77,dusk,0,Stop,11.0,True,Stop,0.857
+78,dusk,0,Stop,10.5,True,Stop,0.88
+79,dusk,0,Stop,10.0,True,Stop,0.88
+80,dusk,0,Stop,9.5,True,Stop,0.884
+81,dusk,0,Stop,9.0,True,Stop,0.876
+82,dusk,0,Stop,8.5,True,Stop,0.898
+83,dusk,0,Stop,8.0,True,Stop,0.875
+84,dusk,0,Stop,7.5,True,Stop,0.894
+219,dusk,2,Speed Limit 30,39.97,False,,
+220,dusk,2,Speed Limit 30,39.47,False,,
+221,dusk,2,Speed Limit 30,38.97,False,,
+222,dusk,2,Speed Limit 30,38.47,False,,
+223,dusk,2,Speed Limit 30,37.97,False,,
+224,dusk,2,Speed Limit 30,37.47,False,,
+225,dusk,2,Speed Limit 30,36.97,False,,
+226,dusk,2,Speed Limit 30,36.47,False,,
+227,dusk,2,Speed Limit 30,35.97,False,,
+228,dusk,2,Speed Limit 30,35.47,False,,
+229,dusk,2,Speed Limit 30,34.97,False,,
+230,dusk,2,Speed Limit 30,34.47,False,,
+231,dusk,2,Speed Limit 30,33.97,False,,
+232,dusk,2,Speed Limit 30,33.47,False,,
+233,dusk,2,Speed Limit 30,32.97,False,,
+234,dusk,2,Speed Limit 30,32.47,False,,
+235,dusk,2,Speed Limit 30,31.97,False,,
+236,dusk,2,Speed Limit 30,31.47,False,,
+237,dusk,2,Speed Limit 30,30.97,False,,
+238,dusk,2,Speed Limit 30,30.47,False,,
+239,dusk,2,Speed Limit 30,29.97,False,,
+240,dusk,2,Speed Limit 30,29.47,False,,
+241,dusk,2,Speed Limit 30,28.97,False,,
+242,dusk,2,Speed Limit 30,28.47,False,,
+243,dusk,2,Speed Limit 30,27.97,False,,
+244,dusk,2,Speed Limit 30,27.47,False,,
+245,dusk,2,Speed Limit 30,26.97,False,,
+246,dusk,2,Speed Limit 30,26.47,False,,
+247,dusk,2,Speed Limit 30,25.97,False,,
+248,dusk,2,Speed Limit 30,25.47,False,,
+249,dusk,2,Speed Limit 30,24.97,False,,
+250,dusk,2,Speed Limit 30,24.47,False,,
+251,dusk,2,Speed Limit 30,23.97,False,,
+252,dusk,2,Speed Limit 30,23.47,False,,
+253,dusk,2,Speed Limit 30,22.97,False,,
+254,dusk,2,Speed Limit 30,22.47,False,,
+255,dusk,2,Speed Limit 30,21.97,False,,
+256,dusk,2,Speed Limit 30,21.47,False,,
+257,dusk,2,Speed Limit 30,20.97,False,,
+258,dusk,2,Speed Limit 30,20.47,False,,
+259,dusk,2,Speed Limit 30,19.97,False,Speed Limit 50,0.477
+260,dusk,2,Speed Limit 30,19.47,False,,
+261,dusk,2,Speed Limit 30,18.97,False,,
+262,dusk,2,Speed Limit 30,18.47,False,,
+263,dusk,2,Speed Limit 30,17.97,False,,
+264,dusk,2,Speed Limit 30,17.47,False,,
+265,dusk,2,Speed Limit 30,16.97,False,,
+266,dusk,2,Speed Limit 30,16.47,False,,
+267,dusk,2,Speed Limit 30,15.97,False,,
+268,dusk,2,Speed Limit 30,15.47,False,,
+269,dusk,2,Speed Limit 30,14.97,False,,
+270,dusk,2,Speed Limit 30,14.47,False,,
+271,dusk,2,Speed Limit 30,13.97,True,Speed Limit 30,0.87
+272,dusk,2,Speed Limit 30,13.47,True,Speed Limit 30,0.678
+273,dusk,2,Speed Limit 30,12.97,True,Speed Limit 30,0.746
+274,dusk,2,Speed Limit 30,12.47,True,Speed Limit 30,0.627
+275,dusk,2,Speed Limit 30,11.97,True,Speed Limit 30,0.891
+276,dusk,2,Speed Limit 30,11.47,True,Speed Limit 30,0.891
+277,dusk,2,Speed Limit 30,10.97,True,Speed Limit 30,0.91
+278,dusk,2,Speed Limit 30,10.47,False,,
+279,dusk,2,Speed Limit 30,9.97,True,Speed Limit 30,0.892
+280,dusk,2,Speed Limit 30,9.47,True,Speed Limit 30,0.901
+281,dusk,2,Speed Limit 30,8.97,True,Speed Limit 30,0.88
+282,dusk,2,Speed Limit 30,8.47,True,Speed Limit 30,0.905
+283,dusk,2,Speed Limit 30,7.97,True,Speed Limit 30,0.914
+284,dusk,2,Speed Limit 30,7.47,True,Speed Limit 30,0.806
+319,dusk,3,Give Way,40.0,True,Give Way,0.735
+320,dusk,3,Give Way,39.5,True,Give Way,0.739
+321,dusk,3,Give Way,39.0,True,Give Way,0.735
+322,dusk,3,Give Way,38.5,True,Give Way,0.715
+323,dusk,3,Give Way,38.0,True,Give Way,0.72
+324,dusk,3,Give Way,37.5,True,Give Way,0.73
+325,dusk,3,Give Way,37.0,True,Give Way,0.746
+326,dusk,3,Give Way,36.5,True,Give Way,0.785
+327,dusk,3,Give Way,36.0,True,Give Way,0.79
+328,dusk,3,Give Way,35.5,True,Give Way,0.8
+329,dusk,3,Give Way,35.0,True,Give Way,0.813
+330,dusk,3,Give Way,34.5,True,Give Way,0.815
+331,dusk,3,Give Way,34.0,True,Give Way,0.833
+332,dusk,3,Give Way,33.5,True,Give Way,0.834
+333,dusk,3,Give Way,33.0,True,Give Way,0.829
+334,dusk,3,Give Way,32.5,True,Give Way,0.837
+335,dusk,3,Give Way,32.0,True,Give Way,0.839
+336,dusk,3,Give Way,31.5,True,Give Way,0.839
+337,dusk,3,Give Way,31.0,True,Give Way,0.841
+338,dusk,3,Give Way,30.5,True,Give Way,0.841
+339,dusk,3,Give Way,30.0,True,Give Way,0.838
+340,dusk,3,Give Way,29.5,True,Give Way,0.841
+341,dusk,3,Give Way,29.0,True,Give Way,0.858
+342,dusk,3,Give Way,28.5,True,Give Way,0.866
+343,dusk,3,Give Way,28.0,True,Give Way,0.85
+344,dusk,3,Give Way,27.5,True,Give Way,0.846
+345,dusk,3,Give Way,27.0,True,Give Way,0.844
+346,dusk,3,Give Way,26.5,True,Give Way,0.849
+347,dusk,3,Give Way,26.0,True,Give Way,0.868
+348,dusk,3,Give Way,25.5,True,Give Way,0.868
+349,dusk,3,Give Way,25.0,True,Give Way,0.863
+350,dusk,3,Give Way,24.5,True,Give Way,0.862
+351,dusk,3,Give Way,24.0,True,Give Way,0.859
+352,dusk,3,Give Way,23.5,True,Give Way,0.869
+353,dusk,3,Give Way,23.0,True,Give Way,0.875
+354,dusk,3,Give Way,22.5,True,Give Way,0.864
+355,dusk,3,Give Way,22.0,True,Give Way,0.868
+356,dusk,3,Give Way,21.5,True,Give Way,0.865
+357,dusk,3,Give Way,21.0,True,Give Way,0.874
+358,dusk,3,Give Way,20.5,True,Give Way,0.881
+359,dusk,3,Give Way,20.0,True,Give Way,0.868
+360,dusk,3,Give Way,19.5,True,Give Way,0.868
+361,dusk,3,Give Way,19.0,True,Give Way,0.881
+362,dusk,3,Give Way,18.5,True,Give Way,0.869
+363,dusk,3,Give Way,18.0,True,Give Way,0.879
+364,dusk,3,Give Way,17.5,True,Give Way,0.867
+365,dusk,3,Give Way,17.0,True,Give Way,0.871
+366,dusk,3,Give Way,16.5,True,Give Way,0.822
+367,dusk,3,Give Way,16.0,True,Give Way,0.723
+368,dusk,3,Give Way,15.5,True,Give Way,0.859
+369,dusk,3,Give Way,15.0,True,Give Way,0.862
+370,dusk,3,Give Way,14.5,True,Give Way,0.881
+371,dusk,3,Give Way,14.0,True,Give Way,0.887
+372,dusk,3,Give Way,13.5,True,Give Way,0.883
+373,dusk,3,Give Way,13.0,True,Give Way,0.883
+374,dusk,3,Give Way,12.5,True,Give Way,0.895
+375,dusk,3,Give Way,12.0,True,Give Way,0.895
+376,dusk,3,Give Way,11.5,True,Give Way,0.881
+377,dusk,3,Give Way,11.0,True,Give Way,0.89
+378,dusk,3,Give Way,10.5,True,Give Way,0.877
+379,dusk,3,Give Way,10.0,True,Give Way,0.877
+380,dusk,3,Give Way,9.5,True,Give Way,0.873
+381,dusk,3,Give Way,9.0,True,Give Way,0.893
+382,dusk,3,Give Way,8.5,True,Give Way,0.881
+383,dusk,3,Give Way,8.0,True,Give Way,0.868
+384,dusk,3,Give Way,7.5,True,Give Way,0.88
+519,dusk,5,No Entry,39.97,True,No Entry,0.558
+520,dusk,5,No Entry,39.47,True,No Entry,0.61
+521,dusk,5,No Entry,38.97,True,No Entry,0.709
+522,dusk,5,No Entry,38.47,True,No Entry,0.706
+523,dusk,5,No Entry,37.97,True,No Entry,0.737
+524,dusk,5,No Entry,37.47,True,No Entry,0.421
+525,dusk,5,No Entry,36.97,False,,
+526,dusk,5,No Entry,36.47,True,No Entry,0.573
+527,dusk,5,No Entry,35.97,True,No Entry,0.613
+528,dusk,5,No Entry,35.47,True,No Entry,0.732
+529,dusk,5,No Entry,34.97,True,No Entry,0.776
+530,dusk,5,No Entry,34.47,True,No Entry,0.787
+531,dusk,5,No Entry,33.97,True,No Entry,0.79
+532,dusk,5,No Entry,33.47,True,No Entry,0.81
+533,dusk,5,No Entry,32.97,True,No Entry,0.799
+534,dusk,5,No Entry,32.47,True,No Entry,0.799
+535,dusk,5,No Entry,31.97,True,No Entry,0.721
+536,dusk,5,No Entry,31.47,True,No Entry,0.621
+537,dusk,5,No Entry,30.97,True,No Entry,0.555
+538,dusk,5,No Entry,30.47,True,No Entry,0.753
+539,dusk,5,No Entry,29.97,True,No Entry,0.806
+540,dusk,5,No Entry,29.47,True,No Entry,0.821
+541,dusk,5,No Entry,28.97,True,No Entry,0.814
+542,dusk,5,No Entry,28.47,True,No Entry,0.82
+543,dusk,5,No Entry,27.97,True,No Entry,0.771
+544,dusk,5,No Entry,27.47,True,No Entry,0.764
+545,dusk,5,No Entry,26.97,True,No Entry,0.821
+546,dusk,5,No Entry,26.47,True,No Entry,0.833
+547,dusk,5,No Entry,25.97,True,No Entry,0.836
+548,dusk,5,No Entry,25.47,True,No Entry,0.83
+549,dusk,5,No Entry,24.97,True,No Entry,0.835
+550,dusk,5,No Entry,24.47,True,No Entry,0.832
+551,dusk,5,No Entry,23.97,True,No Entry,0.851
+552,dusk,5,No Entry,23.47,True,No Entry,0.826
+553,dusk,5,No Entry,22.97,True,No Entry,0.831
+554,dusk,5,No Entry,22.47,True,No Entry,0.828
+555,dusk,5,No Entry,21.97,True,No Entry,0.826
+556,dusk,5,No Entry,21.47,True,No Entry,0.836
+557,dusk,5,No Entry,20.97,True,No Entry,0.85
+558,dusk,5,No Entry,20.47,True,No Entry,0.848
+559,dusk,5,No Entry,19.97,True,No Entry,0.84
+560,dusk,5,No Entry,19.47,True,No Entry,0.855
+561,dusk,5,No Entry,18.97,True,No Entry,0.873
+562,dusk,5,No Entry,18.47,True,No Entry,0.84
+563,dusk,5,No Entry,17.97,True,No Entry,0.853
+564,dusk,5,No Entry,17.47,True,No Entry,0.858
+565,dusk,5,No Entry,16.97,True,No Entry,0.867
+566,dusk,5,No Entry,16.47,True,No Entry,0.876
+567,dusk,5,No Entry,15.97,True,No Entry,0.874
+568,dusk,5,No Entry,15.47,True,No Entry,0.866
+569,dusk,5,No Entry,14.97,True,No Entry,0.859
+570,dusk,5,No Entry,14.47,True,No Entry,0.868
+571,dusk,5,No Entry,13.97,True,No Entry,0.884
+572,dusk,5,No Entry,13.47,True,No Entry,0.875
+573,dusk,5,No Entry,12.97,True,No Entry,0.854
+574,dusk,5,No Entry,12.47,True,No Entry,0.877
+575,dusk,5,No Entry,11.97,True,No Entry,0.863
+576,dusk,5,No Entry,11.47,True,No Entry,0.87
+577,dusk,5,No Entry,10.97,True,No Entry,0.876
+578,dusk,5,No Entry,10.47,True,No Entry,0.885
+579,dusk,5,No Entry,9.97,True,No Entry,0.901
+580,dusk,5,No Entry,9.47,True,No Entry,0.898
+581,dusk,5,No Entry,8.97,True,No Entry,0.9
+582,dusk,5,No Entry,8.47,True,No Entry,0.891
+583,dusk,5,No Entry,7.97,True,No Entry,0.9
+584,dusk,5,No Entry,7.47,True,No Entry,0.894
+619,dusk,6,Speed Limit 50,39.97,False,,
+620,dusk,6,Speed Limit 50,39.47,False,,
+621,dusk,6,Speed Limit 50,38.97,False,,
+622,dusk,6,Speed Limit 50,38.47,False,,
+623,dusk,6,Speed Limit 50,37.97,False,,
+624,dusk,6,Speed Limit 50,37.47,False,,
+625,dusk,6,Speed Limit 50,36.97,False,,
+626,dusk,6,Speed Limit 50,36.47,False,,
+627,dusk,6,Speed Limit 50,35.97,False,,
+628,dusk,6,Speed Limit 50,35.47,False,,
+629,dusk,6,Speed Limit 50,34.97,False,,
+630,dusk,6,Speed Limit 50,34.47,False,,
+631,dusk,6,Speed Limit 50,33.97,False,,
+632,dusk,6,Speed Limit 50,33.47,False,,
+633,dusk,6,Speed Limit 50,32.97,False,,
+634,dusk,6,Speed Limit 50,32.47,False,,
+635,dusk,6,Speed Limit 50,31.97,False,,
+636,dusk,6,Speed Limit 50,31.47,False,,
+637,dusk,6,Speed Limit 50,30.97,False,,
+638,dusk,6,Speed Limit 50,30.47,False,,
+639,dusk,6,Speed Limit 50,29.97,False,,
+640,dusk,6,Speed Limit 50,29.47,False,,
+641,dusk,6,Speed Limit 50,28.97,False,,
+642,dusk,6,Speed Limit 50,28.47,False,,
+643,dusk,6,Speed Limit 50,27.97,False,,
+644,dusk,6,Speed Limit 50,27.47,False,,
+645,dusk,6,Speed Limit 50,26.97,False,,
+646,dusk,6,Speed Limit 50,26.47,False,,
+647,dusk,6,Speed Limit 50,25.97,True,Speed Limit 50,0.431
+648,dusk,6,Speed Limit 50,25.47,False,,
+649,dusk,6,Speed Limit 50,24.97,False,,
+650,dusk,6,Speed Limit 50,24.47,False,,
+651,dusk,6,Speed Limit 50,23.97,False,,
+652,dusk,6,Speed Limit 50,23.47,False,,
+653,dusk,6,Speed Limit 50,22.97,False,,
+654,dusk,6,Speed Limit 50,22.47,False,,
+655,dusk,6,Speed Limit 50,21.97,False,,
+656,dusk,6,Speed Limit 50,21.47,False,,
+657,dusk,6,Speed Limit 50,20.97,False,,
+658,dusk,6,Speed Limit 50,20.47,False,,
+659,dusk,6,Speed Limit 50,19.97,False,,
+660,dusk,6,Speed Limit 50,19.47,False,,
+661,dusk,6,Speed Limit 50,18.97,False,,
+662,dusk,6,Speed Limit 50,18.47,False,,
+663,dusk,6,Speed Limit 50,17.97,False,,
+664,dusk,6,Speed Limit 50,17.47,True,Speed Limit 50,0.809
+665,dusk,6,Speed Limit 50,16.97,False,,
+666,dusk,6,Speed Limit 50,16.47,False,,
+667,dusk,6,Speed Limit 50,15.97,True,Speed Limit 50,0.794
+668,dusk,6,Speed Limit 50,15.47,True,Speed Limit 50,0.679
+669,dusk,6,Speed Limit 50,14.97,False,,
+670,dusk,6,Speed Limit 50,14.47,True,Speed Limit 50,0.57
+671,dusk,6,Speed Limit 50,13.97,True,Speed Limit 50,0.876
+672,dusk,6,Speed Limit 50,13.47,True,Speed Limit 50,0.843
+673,dusk,6,Speed Limit 50,12.97,True,Speed Limit 50,0.872
+674,dusk,6,Speed Limit 50,12.47,True,Speed Limit 50,0.82
+675,dusk,6,Speed Limit 50,11.97,True,Speed Limit 50,0.907
+676,dusk,6,Speed Limit 50,11.47,True,Speed Limit 50,0.904
+677,dusk,6,Speed Limit 50,10.97,True,Speed Limit 50,0.891
+678,dusk,6,Speed Limit 50,10.47,True,Speed Limit 50,0.84
+679,dusk,6,Speed Limit 50,9.97,True,Speed Limit 50,0.903
+680,dusk,6,Speed Limit 50,9.47,True,Speed Limit 50,0.884
+681,dusk,6,Speed Limit 50,8.97,True,Speed Limit 50,0.903
+682,dusk,6,Speed Limit 50,8.47,True,Speed Limit 50,0.894
+683,dusk,6,Speed Limit 50,7.97,True,Speed Limit 50,0.902
+684,dusk,6,Speed Limit 50,7.47,True,Speed Limit 50,0.905
+819,dusk,8,Keep Right,39.97,False,,
+820,dusk,8,Keep Right,39.47,False,,
+821,dusk,8,Keep Right,38.97,False,,
+822,dusk,8,Keep Right,38.47,False,,
+823,dusk,8,Keep Right,37.97,False,,
+824,dusk,8,Keep Right,37.47,False,,
+825,dusk,8,Keep Right,36.97,False,,
+826,dusk,8,Keep Right,36.47,False,,
+827,dusk,8,Keep Right,35.97,False,,
+828,dusk,8,Keep Right,35.47,False,,
+829,dusk,8,Keep Right,34.97,False,,
+830,dusk,8,Keep Right,34.47,False,,
+831,dusk,8,Keep Right,33.97,False,,
+832,dusk,8,Keep Right,33.47,False,,
+833,dusk,8,Keep Right,32.97,True,Keep Right,0.493
+834,dusk,8,Keep Right,32.47,True,Keep Right,0.623
+835,dusk,8,Keep Right,31.97,False,,
+836,dusk,8,Keep Right,31.47,False,,
+837,dusk,8,Keep Right,30.97,False,,
+838,dusk,8,Keep Right,30.47,False,,
+839,dusk,8,Keep Right,29.97,False,,
+840,dusk,8,Keep Right,29.47,True,Keep Right,0.626
+841,dusk,8,Keep Right,28.97,True,Keep Right,0.727
+842,dusk,8,Keep Right,28.47,True,Keep Right,0.712
+843,dusk,8,Keep Right,27.97,True,Keep Right,0.558
+844,dusk,8,Keep Right,27.47,True,Keep Right,0.583
+845,dusk,8,Keep Right,26.97,True,Keep Right,0.775
+846,dusk,8,Keep Right,26.47,True,Keep Right,0.504
+847,dusk,8,Keep Right,25.97,True,Keep Right,0.773
+848,dusk,8,Keep Right,25.47,True,Keep Right,0.799
+849,dusk,8,Keep Right,24.97,True,Keep Right,0.827
+850,dusk,8,Keep Right,24.47,True,Keep Right,0.617
+851,dusk,8,Keep Right,23.97,True,Keep Right,0.497
+852,dusk,8,Keep Right,23.47,True,Keep Right,0.751
+853,dusk,8,Keep Right,22.97,True,Keep Right,0.742
+854,dusk,8,Keep Right,22.47,True,Keep Right,0.735
+855,dusk,8,Keep Right,21.97,True,Keep Right,0.683
+856,dusk,8,Keep Right,21.47,True,Keep Right,0.87
+857,dusk,8,Keep Right,20.97,True,Keep Right,0.857
+858,dusk,8,Keep Right,20.47,False,,
+859,dusk,8,Keep Right,19.97,True,Keep Right,0.878
+860,dusk,8,Keep Right,19.47,False,,
+861,dusk,8,Keep Right,18.97,False,,
+862,dusk,8,Keep Right,18.47,False,,
+863,dusk,8,Keep Right,17.97,False,,
+864,dusk,8,Keep Right,17.47,True,Keep Right,0.69
+865,dusk,8,Keep Right,16.97,True,Keep Right,0.874
+866,dusk,8,Keep Right,16.47,True,Keep Right,0.879
+867,dusk,8,Keep Right,15.97,True,Keep Right,0.86
+868,dusk,8,Keep Right,15.47,True,Keep Right,0.882
+869,dusk,8,Keep Right,14.97,True,Keep Right,0.539
+870,dusk,8,Keep Right,14.47,True,Keep Right,0.849
+871,dusk,8,Keep Right,13.97,True,Keep Right,0.731
+872,dusk,8,Keep Right,13.47,True,Keep Right,0.876
+873,dusk,8,Keep Right,12.97,True,Keep Right,0.878
+874,dusk,8,Keep Right,12.47,True,Keep Right,0.701
+875,dusk,8,Keep Right,11.97,True,Keep Right,0.841
+876,dusk,8,Keep Right,11.47,True,Keep Right,0.858
+877,dusk,8,Keep Right,10.97,True,Keep Right,0.855
+878,dusk,8,Keep Right,10.47,True,Keep Right,0.899
+879,dusk,8,Keep Right,9.97,True,Keep Right,0.904
+880,dusk,8,Keep Right,9.47,True,Keep Right,0.891
+881,dusk,8,Keep Right,8.97,True,Keep Right,0.899
+882,dusk,8,Keep Right,8.47,True,Keep Right,0.89
+883,dusk,8,Keep Right,7.97,True,Keep Right,0.887
+884,dusk,8,Keep Right,7.47,True,Keep Right,0.9
+19,night,0,Stop,40.0,False,,
+20,night,0,Stop,39.5,False,,
+21,night,0,Stop,39.0,False,,
+22,night,0,Stop,38.5,False,,
+23,night,0,Stop,38.0,False,,
+24,night,0,Stop,37.5,False,,
+25,night,0,Stop,37.0,False,,
+26,night,0,Stop,36.5,False,,
+27,night,0,Stop,36.0,False,,
+28,night,0,Stop,35.5,False,,
+29,night,0,Stop,35.0,False,,
+30,night,0,Stop,34.5,False,,
+31,night,0,Stop,34.0,False,,
+32,night,0,Stop,33.5,False,,
+33,night,0,Stop,33.0,False,,
+34,night,0,Stop,32.5,False,,
+35,night,0,Stop,32.0,False,,
+36,night,0,Stop,31.5,False,,
+37,night,0,Stop,31.0,False,,
+38,night,0,Stop,30.5,False,,
+39,night,0,Stop,30.0,False,,
+40,night,0,Stop,29.5,False,,
+41,night,0,Stop,29.0,True,Stop,0.698
+42,night,0,Stop,28.5,False,,
+43,night,0,Stop,28.0,True,Stop,0.494
+44,night,0,Stop,27.5,True,Stop,0.815
+45,night,0,Stop,27.0,True,Stop,0.805
+46,night,0,Stop,26.5,True,Stop,0.827
+47,night,0,Stop,26.0,True,Stop,0.836
+48,night,0,Stop,25.5,True,Stop,0.879
+49,night,0,Stop,25.0,True,Stop,0.847
+50,night,0,Stop,24.5,True,Stop,0.846
+51,night,0,Stop,24.0,True,Stop,0.803
+52,night,0,Stop,23.5,True,Stop,0.818
+53,night,0,Stop,23.0,True,Stop,0.863
+54,night,0,Stop,22.5,False,,
+55,night,0,Stop,22.0,True,Stop,0.805
+56,night,0,Stop,21.5,True,Stop,0.818
+57,night,0,Stop,21.0,False,,
+58,night,0,Stop,20.5,True,Stop,0.856
+59,night,0,Stop,20.0,True,Stop,0.845
+60,night,0,Stop,19.5,True,Stop,0.854
+61,night,0,Stop,19.0,True,Stop,0.874
+62,night,0,Stop,18.5,True,Stop,0.829
+63,night,0,Stop,18.0,True,Stop,0.869
+64,night,0,Stop,17.5,True,Stop,0.844
+65,night,0,Stop,17.0,True,Stop,0.851
+66,night,0,Stop,16.5,True,Stop,0.859
+67,night,0,Stop,16.0,True,Stop,0.843
+68,night,0,Stop,15.5,True,Stop,0.854
+69,night,0,Stop,15.0,True,Stop,0.848
+70,night,0,Stop,14.5,True,Stop,0.837
+71,night,0,Stop,14.0,True,Stop,0.875
+72,night,0,Stop,13.5,True,Stop,0.851
+73,night,0,Stop,13.0,True,Stop,0.872
+74,night,0,Stop,12.5,True,Stop,0.874
+75,night,0,Stop,12.0,True,Stop,0.875
+76,night,0,Stop,11.5,True,Stop,0.873
+77,night,0,Stop,11.0,True,Stop,0.84
+78,night,0,Stop,10.5,True,Stop,0.883
+79,night,0,Stop,10.0,True,Stop,0.883
+80,night,0,Stop,9.5,True,Stop,0.875
+81,night,0,Stop,9.0,True,Stop,0.881
+82,night,0,Stop,8.5,True,Stop,0.895
+83,night,0,Stop,8.0,True,Stop,0.881
+84,night,0,Stop,7.5,True,Stop,0.903
+219,night,2,Speed Limit 30,39.97,False,,
+220,night,2,Speed Limit 30,39.47,False,,
+221,night,2,Speed Limit 30,38.97,False,,
+222,night,2,Speed Limit 30,38.47,False,,
+223,night,2,Speed Limit 30,37.97,False,,
+224,night,2,Speed Limit 30,37.47,False,,
+225,night,2,Speed Limit 30,36.97,False,,
+226,night,2,Speed Limit 30,36.47,False,,
+227,night,2,Speed Limit 30,35.97,False,,
+228,night,2,Speed Limit 30,35.47,False,,
+229,night,2,Speed Limit 30,34.97,False,,
+230,night,2,Speed Limit 30,34.47,False,,
+231,night,2,Speed Limit 30,33.97,False,,
+232,night,2,Speed Limit 30,33.47,False,,
+233,night,2,Speed Limit 30,32.97,False,,
+234,night,2,Speed Limit 30,32.47,False,,
+235,night,2,Speed Limit 30,31.97,False,,
+236,night,2,Speed Limit 30,31.47,False,,
+237,night,2,Speed Limit 30,30.97,False,,
+238,night,2,Speed Limit 30,30.47,False,,
+239,night,2,Speed Limit 30,29.97,False,,
+240,night,2,Speed Limit 30,29.47,False,,
+241,night,2,Speed Limit 30,28.97,False,,
+242,night,2,Speed Limit 30,28.47,False,,
+243,night,2,Speed Limit 30,27.97,False,,
+244,night,2,Speed Limit 30,27.47,False,,
+245,night,2,Speed Limit 30,26.97,False,,
+246,night,2,Speed Limit 30,26.47,False,,
+247,night,2,Speed Limit 30,25.97,False,,
+248,night,2,Speed Limit 30,25.47,False,,
+249,night,2,Speed Limit 30,24.97,False,,
+250,night,2,Speed Limit 30,24.47,False,,
+251,night,2,Speed Limit 30,23.97,False,,
+252,night,2,Speed Limit 30,23.47,False,,
+253,night,2,Speed Limit 30,22.97,False,,
+254,night,2,Speed Limit 30,22.47,False,,
+255,night,2,Speed Limit 30,21.97,False,,
+256,night,2,Speed Limit 30,21.47,False,,
+257,night,2,Speed Limit 30,20.97,False,,
+258,night,2,Speed Limit 30,20.47,False,,
+259,night,2,Speed Limit 30,19.97,False,,
+260,night,2,Speed Limit 30,19.47,False,,
+261,night,2,Speed Limit 30,18.97,False,,
+262,night,2,Speed Limit 30,18.47,False,,
+263,night,2,Speed Limit 30,17.97,False,,
+264,night,2,Speed Limit 30,17.47,False,,
+265,night,2,Speed Limit 30,16.97,False,,
+266,night,2,Speed Limit 30,16.47,False,,
+267,night,2,Speed Limit 30,15.97,False,,
+268,night,2,Speed Limit 30,15.47,False,,
+269,night,2,Speed Limit 30,14.97,False,,
+270,night,2,Speed Limit 30,14.47,False,,
+271,night,2,Speed Limit 30,13.97,True,Speed Limit 30,0.803
+272,night,2,Speed Limit 30,13.47,False,,
+273,night,2,Speed Limit 30,12.97,True,Speed Limit 30,0.401
+274,night,2,Speed Limit 30,12.47,False,,
+275,night,2,Speed Limit 30,11.97,True,Speed Limit 30,0.912
+276,night,2,Speed Limit 30,11.47,True,Speed Limit 30,0.902
+277,night,2,Speed Limit 30,10.97,True,Speed Limit 30,0.916
+278,night,2,Speed Limit 30,10.47,False,,
+279,night,2,Speed Limit 30,9.97,True,Speed Limit 30,0.891
+280,night,2,Speed Limit 30,9.47,True,Speed Limit 30,0.907
+281,night,2,Speed Limit 30,8.97,True,Speed Limit 30,0.885
+282,night,2,Speed Limit 30,8.47,True,Speed Limit 30,0.9
+283,night,2,Speed Limit 30,7.97,True,Speed Limit 30,0.916
+284,night,2,Speed Limit 30,7.47,True,Speed Limit 30,0.852
+319,night,3,Give Way,40.0,True,Give Way,0.803
+320,night,3,Give Way,39.5,True,Give Way,0.795
+321,night,3,Give Way,39.0,True,Give Way,0.767
+322,night,3,Give Way,38.5,True,Give Way,0.764
+323,night,3,Give Way,38.0,True,Give Way,0.692
+324,night,3,Give Way,37.5,True,Give Way,0.733
+325,night,3,Give Way,37.0,True,Give Way,0.761
+326,night,3,Give Way,36.5,True,Give Way,0.802
+327,night,3,Give Way,36.0,True,Give Way,0.811
+328,night,3,Give Way,35.5,True,Give Way,0.806
+329,night,3,Give Way,35.0,True,Give Way,0.833
+330,night,3,Give Way,34.5,True,Give Way,0.784
+331,night,3,Give Way,34.0,True,Give Way,0.812
+332,night,3,Give Way,33.5,True,Give Way,0.827
+333,night,3,Give Way,33.0,True,Give Way,0.832
+334,night,3,Give Way,32.5,True,Give Way,0.829
+335,night,3,Give Way,32.0,True,Give Way,0.843
+336,night,3,Give Way,31.5,True,Give Way,0.832
+337,night,3,Give Way,31.0,True,Give Way,0.84
+338,night,3,Give Way,30.5,True,Give Way,0.852
+339,night,3,Give Way,30.0,True,Give Way,0.85
+340,night,3,Give Way,29.5,True,Give Way,0.855
+341,night,3,Give Way,29.0,True,Give Way,0.867
+342,night,3,Give Way,28.5,True,Give Way,0.859
+343,night,3,Give Way,28.0,True,Give Way,0.848
+344,night,3,Give Way,27.5,True,Give Way,0.852
+345,night,3,Give Way,27.0,True,Give Way,0.852
+346,night,3,Give Way,26.5,True,Give Way,0.862
+347,night,3,Give Way,26.0,True,Give Way,0.874
+348,night,3,Give Way,25.5,True,Give Way,0.868
+349,night,3,Give Way,25.0,True,Give Way,0.856
+350,night,3,Give Way,24.5,True,Give Way,0.868
+351,night,3,Give Way,24.0,True,Give Way,0.864
+352,night,3,Give Way,23.5,True,Give Way,0.865
+353,night,3,Give Way,23.0,True,Give Way,0.88
+354,night,3,Give Way,22.5,True,Give Way,0.862
+355,night,3,Give Way,22.0,True,Give Way,0.869
+356,night,3,Give Way,21.5,True,Give Way,0.859
+357,night,3,Give Way,21.0,True,Give Way,0.867
+358,night,3,Give Way,20.5,True,Give Way,0.873
+359,night,3,Give Way,20.0,True,Give Way,0.872
+360,night,3,Give Way,19.5,True,Give Way,0.876
+361,night,3,Give Way,19.0,True,Give Way,0.878
+362,night,3,Give Way,18.5,True,Give Way,0.873
+363,night,3,Give Way,18.0,True,Give Way,0.89
+364,night,3,Give Way,17.5,True,Give Way,0.88
+365,night,3,Give Way,17.0,True,Give Way,0.882
+366,night,3,Give Way,16.5,True,Give Way,0.881
+367,night,3,Give Way,16.0,True,Give Way,0.862
+368,night,3,Give Way,15.5,True,Give Way,0.88
+369,night,3,Give Way,15.0,True,Give Way,0.867
+370,night,3,Give Way,14.5,True,Give Way,0.879
+371,night,3,Give Way,14.0,True,Give Way,0.883
+372,night,3,Give Way,13.5,True,Give Way,0.879
+373,night,3,Give Way,13.0,True,Give Way,0.887
+374,night,3,Give Way,12.5,True,Give Way,0.897
+375,night,3,Give Way,12.0,True,Give Way,0.898
+376,night,3,Give Way,11.5,True,Give Way,0.885
+377,night,3,Give Way,11.0,True,Give Way,0.891
+378,night,3,Give Way,10.5,True,Give Way,0.878
+379,night,3,Give Way,10.0,True,Give Way,0.877
+380,night,3,Give Way,9.5,True,Give Way,0.875
+381,night,3,Give Way,9.0,True,Give Way,0.894
+382,night,3,Give Way,8.5,True,Give Way,0.882
+383,night,3,Give Way,8.0,True,Give Way,0.868
+384,night,3,Give Way,7.5,True,Give Way,0.88
+519,night,5,No Entry,39.97,True,No Entry,0.786
+520,night,5,No Entry,39.47,True,No Entry,0.768
+521,night,5,No Entry,38.97,True,No Entry,0.744
+522,night,5,No Entry,38.47,True,No Entry,0.76
+523,night,5,No Entry,37.97,True,No Entry,0.756
+524,night,5,No Entry,37.47,True,No Entry,0.738
+525,night,5,No Entry,36.97,True,No Entry,0.711
+526,night,5,No Entry,36.47,True,No Entry,0.787
+527,night,5,No Entry,35.97,True,No Entry,0.789
+528,night,5,No Entry,35.47,True,No Entry,0.776
+529,night,5,No Entry,34.97,True,No Entry,0.776
+530,night,5,No Entry,34.47,True,No Entry,0.778
+531,night,5,No Entry,33.97,True,No Entry,0.788
+532,night,5,No Entry,33.47,True,No Entry,0.791
+533,night,5,No Entry,32.97,True,No Entry,0.803
+534,night,5,No Entry,32.47,True,No Entry,0.804
+535,night,5,No Entry,31.97,True,No Entry,0.824
+536,night,5,No Entry,31.47,True,No Entry,0.813
+537,night,5,No Entry,30.97,True,No Entry,0.777
+538,night,5,No Entry,30.47,True,No Entry,0.789
+539,night,5,No Entry,29.97,True,No Entry,0.79
+540,night,5,No Entry,29.47,True,No Entry,0.806
+541,night,5,No Entry,28.97,True,No Entry,0.824
+542,night,5,No Entry,28.47,True,No Entry,0.824
+543,night,5,No Entry,27.97,True,No Entry,0.794
+544,night,5,No Entry,27.47,True,No Entry,0.801
+545,night,5,No Entry,26.97,True,No Entry,0.811
+546,night,5,No Entry,26.47,True,No Entry,0.835
+547,night,5,No Entry,25.97,True,No Entry,0.844
+548,night,5,No Entry,25.47,True,No Entry,0.831
+549,night,5,No Entry,24.97,True,No Entry,0.829
+550,night,5,No Entry,24.47,True,No Entry,0.81
+551,night,5,No Entry,23.97,True,No Entry,0.849
+552,night,5,No Entry,23.47,True,No Entry,0.832
+553,night,5,No Entry,22.97,True,No Entry,0.837
+554,night,5,No Entry,22.47,True,No Entry,0.835
+555,night,5,No Entry,21.97,True,No Entry,0.835
+556,night,5,No Entry,21.47,True,No Entry,0.839
+557,night,5,No Entry,20.97,True,No Entry,0.847
+558,night,5,No Entry,20.47,True,No Entry,0.844
+559,night,5,No Entry,19.97,True,No Entry,0.833
+560,night,5,No Entry,19.47,True,No Entry,0.84
+561,night,5,No Entry,18.97,True,No Entry,0.858
+562,night,5,No Entry,18.47,True,No Entry,0.827
+563,night,5,No Entry,17.97,True,No Entry,0.849
+564,night,5,No Entry,17.47,True,No Entry,0.84
+565,night,5,No Entry,16.97,True,No Entry,0.868
+566,night,5,No Entry,16.47,True,No Entry,0.872
+567,night,5,No Entry,15.97,True,No Entry,0.869
+568,night,5,No Entry,15.47,True,No Entry,0.859
+569,night,5,No Entry,14.97,True,No Entry,0.867
+570,night,5,No Entry,14.47,True,No Entry,0.869
+571,night,5,No Entry,13.97,True,No Entry,0.879
+572,night,5,No Entry,13.47,True,No Entry,0.862
+573,night,5,No Entry,12.97,True,No Entry,0.86
+574,night,5,No Entry,12.47,True,No Entry,0.874
+575,night,5,No Entry,11.97,True,No Entry,0.868
+576,night,5,No Entry,11.47,True,No Entry,0.87
+577,night,5,No Entry,10.97,True,No Entry,0.886
+578,night,5,No Entry,10.47,True,No Entry,0.889
+579,night,5,No Entry,9.97,True,No Entry,0.897
+580,night,5,No Entry,9.47,True,No Entry,0.898
+581,night,5,No Entry,8.97,True,No Entry,0.889
+582,night,5,No Entry,8.47,True,No Entry,0.894
+583,night,5,No Entry,7.97,True,No Entry,0.891
+584,night,5,No Entry,7.47,True,No Entry,0.891
+619,night,6,Speed Limit 50,39.97,False,,
+620,night,6,Speed Limit 50,39.47,False,,
+621,night,6,Speed Limit 50,38.97,False,,
+622,night,6,Speed Limit 50,38.47,False,,
+623,night,6,Speed Limit 50,37.97,False,,
+624,night,6,Speed Limit 50,37.47,False,,
+625,night,6,Speed Limit 50,36.97,False,,
+626,night,6,Speed Limit 50,36.47,False,,
+627,night,6,Speed Limit 50,35.97,False,,
+628,night,6,Speed Limit 50,35.47,False,,
+629,night,6,Speed Limit 50,34.97,False,,
+630,night,6,Speed Limit 50,34.47,False,,
+631,night,6,Speed Limit 50,33.97,False,,
+632,night,6,Speed Limit 50,33.47,False,,
+633,night,6,Speed Limit 50,32.97,False,,
+634,night,6,Speed Limit 50,32.47,False,,
+635,night,6,Speed Limit 50,31.97,False,,
+636,night,6,Speed Limit 50,31.47,False,,
+637,night,6,Speed Limit 50,30.97,False,,
+638,night,6,Speed Limit 50,30.47,False,,
+639,night,6,Speed Limit 50,29.97,False,,
+640,night,6,Speed Limit 50,29.47,False,,
+641,night,6,Speed Limit 50,28.97,False,,
+642,night,6,Speed Limit 50,28.47,False,,
+643,night,6,Speed Limit 50,27.97,False,,
+644,night,6,Speed Limit 50,27.47,False,,
+645,night,6,Speed Limit 50,26.97,False,,
+646,night,6,Speed Limit 50,26.47,False,,
+647,night,6,Speed Limit 50,25.97,False,,
+648,night,6,Speed Limit 50,25.47,False,,
+649,night,6,Speed Limit 50,24.97,False,,
+650,night,6,Speed Limit 50,24.47,False,,
+651,night,6,Speed Limit 50,23.97,False,,
+652,night,6,Speed Limit 50,23.47,False,,
+653,night,6,Speed Limit 50,22.97,False,,
+654,night,6,Speed Limit 50,22.47,False,,
+655,night,6,Speed Limit 50,21.97,False,,
+656,night,6,Speed Limit 50,21.47,False,,
+657,night,6,Speed Limit 50,20.97,False,,
+658,night,6,Speed Limit 50,20.47,False,,
+659,night,6,Speed Limit 50,19.97,False,,
+660,night,6,Speed Limit 50,19.47,False,,
+661,night,6,Speed Limit 50,18.97,False,,
+662,night,6,Speed Limit 50,18.47,False,,
+663,night,6,Speed Limit 50,17.97,False,,
+664,night,6,Speed Limit 50,17.47,True,Speed Limit 50,0.734
+665,night,6,Speed Limit 50,16.97,False,,
+666,night,6,Speed Limit 50,16.47,False,,
+667,night,6,Speed Limit 50,15.97,True,Speed Limit 50,0.714
+668,night,6,Speed Limit 50,15.47,False,,
+669,night,6,Speed Limit 50,14.97,False,,
+670,night,6,Speed Limit 50,14.47,False,,
+671,night,6,Speed Limit 50,13.97,True,Speed Limit 50,0.745
+672,night,6,Speed Limit 50,13.47,False,,
+673,night,6,Speed Limit 50,12.97,True,Speed Limit 50,0.818
+674,night,6,Speed Limit 50,12.47,True,Speed Limit 50,0.561
+675,night,6,Speed Limit 50,11.97,True,Speed Limit 50,0.897
+676,night,6,Speed Limit 50,11.47,True,Speed Limit 50,0.891
+677,night,6,Speed Limit 50,10.97,True,Speed Limit 50,0.892
+678,night,6,Speed Limit 50,10.47,True,Speed Limit 50,0.668
+679,night,6,Speed Limit 50,9.97,True,Speed Limit 50,0.901
+680,night,6,Speed Limit 50,9.47,True,Speed Limit 50,0.89
+681,night,6,Speed Limit 50,8.97,True,Speed Limit 50,0.892
+682,night,6,Speed Limit 50,8.47,True,Speed Limit 50,0.897
+683,night,6,Speed Limit 50,7.97,True,Speed Limit 50,0.902
+684,night,6,Speed Limit 50,7.47,True,Speed Limit 50,0.912
+819,night,8,Keep Right,39.97,False,,
+820,night,8,Keep Right,39.47,False,,
+821,night,8,Keep Right,38.97,False,,
+822,night,8,Keep Right,38.47,False,,
+823,night,8,Keep Right,37.97,False,,
+824,night,8,Keep Right,37.47,False,,
+825,night,8,Keep Right,36.97,False,,
+826,night,8,Keep Right,36.47,False,,
+827,night,8,Keep Right,35.97,False,,
+828,night,8,Keep Right,35.47,False,,
+829,night,8,Keep Right,34.97,False,,
+830,night,8,Keep Right,34.47,False,,
+831,night,8,Keep Right,33.97,False,,
+832,night,8,Keep Right,33.47,False,,
+833,night,8,Keep Right,32.97,True,Keep Right,0.462
+834,night,8,Keep Right,32.47,False,,
+835,night,8,Keep Right,31.97,False,,
+836,night,8,Keep Right,31.47,False,,
+837,night,8,Keep Right,30.97,False,,
+838,night,8,Keep Right,30.47,False,,
+839,night,8,Keep Right,29.97,False,,
+840,night,8,Keep Right,29.47,True,Keep Right,0.45
+841,night,8,Keep Right,28.97,True,Keep Right,0.573
+842,night,8,Keep Right,28.47,True,Keep Right,0.53
+843,night,8,Keep Right,27.97,False,,
+844,night,8,Keep Right,27.47,False,,
+845,night,8,Keep Right,26.97,True,Keep Right,0.449
+846,night,8,Keep Right,26.47,False,,
+847,night,8,Keep Right,25.97,True,Keep Right,0.715
+848,night,8,Keep Right,25.47,True,Keep Right,0.691
+849,night,8,Keep Right,24.97,False,,
+850,night,8,Keep Right,24.47,False,,
+851,night,8,Keep Right,23.97,False,,
+852,night,8,Keep Right,23.47,True,Keep Right,0.472
+853,night,8,Keep Right,22.97,True,Keep Right,0.416
+854,night,8,Keep Right,22.47,False,,
+855,night,8,Keep Right,21.97,False,,
+856,night,8,Keep Right,21.47,True,Keep Right,0.834
+857,night,8,Keep Right,20.97,True,Keep Right,0.847
+858,night,8,Keep Right,20.47,False,,
+859,night,8,Keep Right,19.97,True,Keep Right,0.857
+860,night,8,Keep Right,19.47,False,,
+861,night,8,Keep Right,18.97,False,,
+862,night,8,Keep Right,18.47,True,Keep Right,0.602
+863,night,8,Keep Right,17.97,False,,
+864,night,8,Keep Right,17.47,False,,
+865,night,8,Keep Right,16.97,True,Keep Right,0.755
+866,night,8,Keep Right,16.47,True,Keep Right,0.825
+867,night,8,Keep Right,15.97,True,Keep Right,0.865
+868,night,8,Keep Right,15.47,True,Keep Right,0.871
+869,night,8,Keep Right,14.97,False,,
+870,night,8,Keep Right,14.47,True,Keep Right,0.836
+871,night,8,Keep Right,13.97,False,,
+872,night,8,Keep Right,13.47,True,Keep Right,0.65
+873,night,8,Keep Right,12.97,True,Keep Right,0.865
+874,night,8,Keep Right,12.47,True,Keep Right,0.696
+875,night,8,Keep Right,11.97,True,Keep Right,0.77
+876,night,8,Keep Right,11.47,True,Keep Right,0.811
+877,night,8,Keep Right,10.97,True,Keep Right,0.856
+878,night,8,Keep Right,10.47,True,Keep Right,0.891
+879,night,8,Keep Right,9.97,True,Keep Right,0.899
+880,night,8,Keep Right,9.47,True,Keep Right,0.88
+881,night,8,Keep Right,8.97,True,Keep Right,0.861
+882,night,8,Keep Right,8.47,True,Keep Right,0.874
+883,night,8,Keep Right,7.97,True,Keep Right,0.857
+884,night,8,Keep Right,7.47,True,Keep Right,0.896
+19,fog,0,Stop,40.0,False,,
+20,fog,0,Stop,39.5,False,,
+21,fog,0,Stop,39.0,False,,
+22,fog,0,Stop,38.5,False,,
+23,fog,0,Stop,38.0,False,,
+24,fog,0,Stop,37.5,False,,
+25,fog,0,Stop,37.0,False,,
+26,fog,0,Stop,36.5,False,,
+27,fog,0,Stop,36.0,False,,
+28,fog,0,Stop,35.5,False,,
+29,fog,0,Stop,35.0,False,,
+30,fog,0,Stop,34.5,False,,
+31,fog,0,Stop,34.0,False,,
+32,fog,0,Stop,33.5,False,,
+33,fog,0,Stop,33.0,False,,
+34,fog,0,Stop,32.5,False,,
+35,fog,0,Stop,32.0,False,,
+36,fog,0,Stop,31.5,True,Stop,0.747
+37,fog,0,Stop,31.0,True,Stop,0.448
+38,fog,0,Stop,30.5,True,Stop,0.734
+39,fog,0,Stop,30.0,True,Stop,0.568
+40,fog,0,Stop,29.5,True,Stop,0.721
+41,fog,0,Stop,29.0,True,Stop,0.818
+42,fog,0,Stop,28.5,True,Stop,0.855
+43,fog,0,Stop,28.0,True,Stop,0.852
+44,fog,0,Stop,27.5,True,Stop,0.75
+45,fog,0,Stop,27.0,True,Stop,0.768
+46,fog,0,Stop,26.5,True,Stop,0.791
+47,fog,0,Stop,26.0,True,Stop,0.866
+48,fog,0,Stop,25.5,True,Stop,0.863
+49,fog,0,Stop,25.0,True,Stop,0.765
+50,fog,0,Stop,24.5,True,Stop,0.794
+51,fog,0,Stop,24.0,True,Stop,0.841
+52,fog,0,Stop,23.5,True,Stop,0.842
+53,fog,0,Stop,23.0,True,Stop,0.866
+54,fog,0,Stop,22.5,True,Stop,0.657
+55,fog,0,Stop,22.0,True,Stop,0.85
+56,fog,0,Stop,21.5,True,Stop,0.844
+57,fog,0,Stop,21.0,True,Stop,0.735
+58,fog,0,Stop,20.5,True,Stop,0.839
+59,fog,0,Stop,20.0,True,Stop,0.845
+60,fog,0,Stop,19.5,True,Stop,0.814
+61,fog,0,Stop,19.0,True,Stop,0.868
+62,fog,0,Stop,18.5,True,Stop,0.843
+63,fog,0,Stop,18.0,True,Stop,0.864
+64,fog,0,Stop,17.5,True,Stop,0.866
+65,fog,0,Stop,17.0,True,Stop,0.864
+66,fog,0,Stop,16.5,True,Stop,0.868
+67,fog,0,Stop,16.0,True,Stop,0.842
+68,fog,0,Stop,15.5,True,Stop,0.853
+69,fog,0,Stop,15.0,True,Stop,0.85
+70,fog,0,Stop,14.5,True,Stop,0.837
+71,fog,0,Stop,14.0,True,Stop,0.873
+72,fog,0,Stop,13.5,True,Stop,0.866
+73,fog,0,Stop,13.0,True,Stop,0.874
+74,fog,0,Stop,12.5,True,Stop,0.879
+75,fog,0,Stop,12.0,True,Stop,0.873
+76,fog,0,Stop,11.5,True,Stop,0.863
+77,fog,0,Stop,11.0,True,Stop,0.861
+78,fog,0,Stop,10.5,True,Stop,0.884
+79,fog,0,Stop,10.0,True,Stop,0.883
+80,fog,0,Stop,9.5,True,Stop,0.883
+81,fog,0,Stop,9.0,True,Stop,0.878
+82,fog,0,Stop,8.5,True,Stop,0.895
+83,fog,0,Stop,8.0,True,Stop,0.895
+84,fog,0,Stop,7.5,True,Stop,0.896
+219,fog,2,Speed Limit 30,39.97,False,,
+220,fog,2,Speed Limit 30,39.47,False,,
+221,fog,2,Speed Limit 30,38.97,False,,
+222,fog,2,Speed Limit 30,38.47,False,,
+223,fog,2,Speed Limit 30,37.97,False,,
+224,fog,2,Speed Limit 30,37.47,False,,
+225,fog,2,Speed Limit 30,36.97,False,,
+226,fog,2,Speed Limit 30,36.47,False,,
+227,fog,2,Speed Limit 30,35.97,False,,
+228,fog,2,Speed Limit 30,35.47,False,,
+229,fog,2,Speed Limit 30,34.97,False,,
+230,fog,2,Speed Limit 30,34.47,False,,
+231,fog,2,Speed Limit 30,33.97,False,,
+232,fog,2,Speed Limit 30,33.47,False,,
+233,fog,2,Speed Limit 30,32.97,False,,
+234,fog,2,Speed Limit 30,32.47,False,,
+235,fog,2,Speed Limit 30,31.97,False,,
+236,fog,2,Speed Limit 30,31.47,False,,
+237,fog,2,Speed Limit 30,30.97,False,,
+238,fog,2,Speed Limit 30,30.47,False,,
+239,fog,2,Speed Limit 30,29.97,False,,
+240,fog,2,Speed Limit 30,29.47,False,,
+241,fog,2,Speed Limit 30,28.97,False,,
+242,fog,2,Speed Limit 30,28.47,False,,
+243,fog,2,Speed Limit 30,27.97,False,,
+244,fog,2,Speed Limit 30,27.47,False,,
+245,fog,2,Speed Limit 30,26.97,False,,
+246,fog,2,Speed Limit 30,26.47,False,,
+247,fog,2,Speed Limit 30,25.97,False,,
+248,fog,2,Speed Limit 30,25.47,False,,
+249,fog,2,Speed Limit 30,24.97,False,,
+250,fog,2,Speed Limit 30,24.47,False,,
+251,fog,2,Speed Limit 30,23.97,False,,
+252,fog,2,Speed Limit 30,23.47,False,,
+253,fog,2,Speed Limit 30,22.97,False,,
+254,fog,2,Speed Limit 30,22.47,False,,
+255,fog,2,Speed Limit 30,21.97,False,,
+256,fog,2,Speed Limit 30,21.47,False,Speed Limit 50,0.47
+257,fog,2,Speed Limit 30,20.97,False,,
+258,fog,2,Speed Limit 30,20.47,False,,
+259,fog,2,Speed Limit 30,19.97,False,,
+260,fog,2,Speed Limit 30,19.47,False,,
+261,fog,2,Speed Limit 30,18.97,False,,
+262,fog,2,Speed Limit 30,18.47,False,,
+263,fog,2,Speed Limit 30,17.97,False,,
+264,fog,2,Speed Limit 30,17.47,False,,
+265,fog,2,Speed Limit 30,16.97,False,,
+266,fog,2,Speed Limit 30,16.47,False,Speed Limit 50,0.453
+267,fog,2,Speed Limit 30,15.97,False,Speed Limit 50,0.751
+268,fog,2,Speed Limit 30,15.47,False,Speed Limit 50,0.409
+269,fog,2,Speed Limit 30,14.97,False,,
+270,fog,2,Speed Limit 30,14.47,False,Speed Limit 50,0.781
+271,fog,2,Speed Limit 30,13.97,True,Speed Limit 30,0.768
+272,fog,2,Speed Limit 30,13.47,True,Speed Limit 30,0.836
+273,fog,2,Speed Limit 30,12.97,False,Speed Limit 50,0.461
+274,fog,2,Speed Limit 30,12.47,False,Speed Limit 50,0.728
+275,fog,2,Speed Limit 30,11.97,True,Speed Limit 30,0.849
+276,fog,2,Speed Limit 30,11.47,True,Speed Limit 30,0.763
+277,fog,2,Speed Limit 30,10.97,True,Speed Limit 30,0.883
+278,fog,2,Speed Limit 30,10.47,True,Speed Limit 30,0.619
+279,fog,2,Speed Limit 30,9.97,True,Speed Limit 30,0.889
+280,fog,2,Speed Limit 30,9.47,True,Speed Limit 30,0.881
+281,fog,2,Speed Limit 30,8.97,True,Speed Limit 30,0.872
+282,fog,2,Speed Limit 30,8.47,True,Speed Limit 30,0.905
+283,fog,2,Speed Limit 30,7.97,True,Speed Limit 30,0.908
+284,fog,2,Speed Limit 30,7.47,True,Speed Limit 30,0.842
+319,fog,3,Give Way,40.0,True,Give Way,0.795
+320,fog,3,Give Way,39.5,True,Give Way,0.782
+321,fog,3,Give Way,39.0,True,Give Way,0.746
+322,fog,3,Give Way,38.5,True,Give Way,0.744
+323,fog,3,Give Way,38.0,True,Give Way,0.758
+324,fog,3,Give Way,37.5,True,Give Way,0.759
+325,fog,3,Give Way,37.0,True,Give Way,0.748
+326,fog,3,Give Way,36.5,True,Give Way,0.791
+327,fog,3,Give Way,36.0,True,Give Way,0.803
+328,fog,3,Give Way,35.5,True,Give Way,0.814
+329,fog,3,Give Way,35.0,True,Give Way,0.822
+330,fog,3,Give Way,34.5,True,Give Way,0.828
+331,fog,3,Give Way,34.0,True,Give Way,0.818
+332,fog,3,Give Way,33.5,True,Give Way,0.813
+333,fog,3,Give Way,33.0,True,Give Way,0.826
+334,fog,3,Give Way,32.5,True,Give Way,0.823
+335,fog,3,Give Way,32.0,True,Give Way,0.831
+336,fog,3,Give Way,31.5,True,Give Way,0.835
+337,fog,3,Give Way,31.0,True,Give Way,0.838
+338,fog,3,Give Way,30.5,True,Give Way,0.83
+339,fog,3,Give Way,30.0,True,Give Way,0.824
+340,fog,3,Give Way,29.5,True,Give Way,0.833
+341,fog,3,Give Way,29.0,True,Give Way,0.832
+342,fog,3,Give Way,28.5,True,Give Way,0.837
+343,fog,3,Give Way,28.0,True,Give Way,0.827
+344,fog,3,Give Way,27.5,True,Give Way,0.829
+345,fog,3,Give Way,27.0,True,Give Way,0.835
+346,fog,3,Give Way,26.5,True,Give Way,0.831
+347,fog,3,Give Way,26.0,True,Give Way,0.865
+348,fog,3,Give Way,25.5,True,Give Way,0.861
+349,fog,3,Give Way,25.0,True,Give Way,0.857
+350,fog,3,Give Way,24.5,True,Give Way,0.848
+351,fog,3,Give Way,24.0,True,Give Way,0.862
+352,fog,3,Give Way,23.5,True,Give Way,0.867
+353,fog,3,Give Way,23.0,True,Give Way,0.86
+354,fog,3,Give Way,22.5,True,Give Way,0.861
+355,fog,3,Give Way,22.0,True,Give Way,0.855
+356,fog,3,Give Way,21.5,True,Give Way,0.841
+357,fog,3,Give Way,21.0,True,Give Way,0.86
+358,fog,3,Give Way,20.5,True,Give Way,0.866
+359,fog,3,Give Way,20.0,True,Give Way,0.855
+360,fog,3,Give Way,19.5,True,Give Way,0.85
+361,fog,3,Give Way,19.0,True,Give Way,0.873
+362,fog,3,Give Way,18.5,True,Give Way,0.859
+363,fog,3,Give Way,18.0,True,Give Way,0.873
+364,fog,3,Give Way,17.5,True,Give Way,0.865
+365,fog,3,Give Way,17.0,True,Give Way,0.864
+366,fog,3,Give Way,16.5,True,Give Way,0.87
+367,fog,3,Give Way,16.0,True,Give Way,0.868
+368,fog,3,Give Way,15.5,True,Give Way,0.872
+369,fog,3,Give Way,15.0,True,Give Way,0.84
+370,fog,3,Give Way,14.5,True,Give Way,0.87
+371,fog,3,Give Way,14.0,True,Give Way,0.873
+372,fog,3,Give Way,13.5,True,Give Way,0.881
+373,fog,3,Give Way,13.0,True,Give Way,0.882
+374,fog,3,Give Way,12.5,True,Give Way,0.88
+375,fog,3,Give Way,12.0,True,Give Way,0.887
+376,fog,3,Give Way,11.5,True,Give Way,0.882
+377,fog,3,Give Way,11.0,True,Give Way,0.885
+378,fog,3,Give Way,10.5,True,Give Way,0.88
+379,fog,3,Give Way,10.0,True,Give Way,0.88
+380,fog,3,Give Way,9.5,True,Give Way,0.872
+381,fog,3,Give Way,9.0,True,Give Way,0.886
+382,fog,3,Give Way,8.5,True,Give Way,0.874
+383,fog,3,Give Way,8.0,True,Give Way,0.872
+384,fog,3,Give Way,7.5,True,Give Way,0.879
+519,fog,5,No Entry,39.97,False,,
+520,fog,5,No Entry,39.47,False,,
+521,fog,5,No Entry,38.97,False,,
+522,fog,5,No Entry,38.47,True,No Entry,0.578
+523,fog,5,No Entry,37.97,True,No Entry,0.555
+524,fog,5,No Entry,37.47,True,No Entry,0.45
+525,fog,5,No Entry,36.97,False,,
+526,fog,5,No Entry,36.47,True,No Entry,0.715
+527,fog,5,No Entry,35.97,True,No Entry,0.69
+528,fog,5,No Entry,35.47,True,No Entry,0.736
+529,fog,5,No Entry,34.97,True,No Entry,0.753
+530,fog,5,No Entry,34.47,True,No Entry,0.766
+531,fog,5,No Entry,33.97,True,No Entry,0.769
+532,fog,5,No Entry,33.47,True,No Entry,0.771
+533,fog,5,No Entry,32.97,True,No Entry,0.743
+534,fog,5,No Entry,32.47,True,No Entry,0.784
+535,fog,5,No Entry,31.97,True,No Entry,0.775
+536,fog,5,No Entry,31.47,True,No Entry,0.767
+537,fog,5,No Entry,30.97,True,No Entry,0.75
+538,fog,5,No Entry,30.47,True,No Entry,0.762
+539,fog,5,No Entry,29.97,True,No Entry,0.772
+540,fog,5,No Entry,29.47,True,No Entry,0.764
+541,fog,5,No Entry,28.97,True,No Entry,0.806
+542,fog,5,No Entry,28.47,True,No Entry,0.8
+543,fog,5,No Entry,27.97,True,No Entry,0.759
+544,fog,5,No Entry,27.47,True,No Entry,0.801
+545,fog,5,No Entry,26.97,True,No Entry,0.785
+546,fog,5,No Entry,26.47,True,No Entry,0.82
+547,fog,5,No Entry,25.97,True,No Entry,0.826
+548,fog,5,No Entry,25.47,True,No Entry,0.803
+549,fog,5,No Entry,24.97,True,No Entry,0.83
+550,fog,5,No Entry,24.47,True,No Entry,0.822
+551,fog,5,No Entry,23.97,True,No Entry,0.845
+552,fog,5,No Entry,23.47,True,No Entry,0.831
+553,fog,5,No Entry,22.97,True,No Entry,0.845
+554,fog,5,No Entry,22.47,True,No Entry,0.834
+555,fog,5,No Entry,21.97,True,No Entry,0.841
+556,fog,5,No Entry,21.47,True,No Entry,0.844
+557,fog,5,No Entry,20.97,True,No Entry,0.839
+558,fog,5,No Entry,20.47,True,No Entry,0.85
+559,fog,5,No Entry,19.97,True,No Entry,0.852
+560,fog,5,No Entry,19.47,True,No Entry,0.836
+561,fog,5,No Entry,18.97,True,No Entry,0.862
+562,fog,5,No Entry,18.47,True,No Entry,0.834
+563,fog,5,No Entry,17.97,True,No Entry,0.844
+564,fog,5,No Entry,17.47,True,No Entry,0.849
+565,fog,5,No Entry,16.97,True,No Entry,0.851
+566,fog,5,No Entry,16.47,True,No Entry,0.848
+567,fog,5,No Entry,15.97,True,No Entry,0.859
+568,fog,5,No Entry,15.47,True,No Entry,0.85
+569,fog,5,No Entry,14.97,True,No Entry,0.866
+570,fog,5,No Entry,14.47,True,No Entry,0.858
+571,fog,5,No Entry,13.97,True,No Entry,0.866
+572,fog,5,No Entry,13.47,True,No Entry,0.878
+573,fog,5,No Entry,12.97,True,No Entry,0.889
+574,fog,5,No Entry,12.47,True,No Entry,0.87
+575,fog,5,No Entry,11.97,True,No Entry,0.873
+576,fog,5,No Entry,11.47,True,No Entry,0.866
+577,fog,5,No Entry,10.97,True,No Entry,0.886
+578,fog,5,No Entry,10.47,True,No Entry,0.897
+579,fog,5,No Entry,9.97,True,No Entry,0.889
+580,fog,5,No Entry,9.47,True,No Entry,0.887
+581,fog,5,No Entry,8.97,True,No Entry,0.901
+582,fog,5,No Entry,8.47,True,No Entry,0.892
+583,fog,5,No Entry,7.97,True,No Entry,0.896
+584,fog,5,No Entry,7.47,True,No Entry,0.888
+619,fog,6,Speed Limit 50,39.97,False,,
+620,fog,6,Speed Limit 50,39.47,False,,
+621,fog,6,Speed Limit 50,38.97,False,,
+622,fog,6,Speed Limit 50,38.47,False,,
+623,fog,6,Speed Limit 50,37.97,False,,
+624,fog,6,Speed Limit 50,37.47,False,,
+625,fog,6,Speed Limit 50,36.97,False,,
+626,fog,6,Speed Limit 50,36.47,False,,
+627,fog,6,Speed Limit 50,35.97,False,,
+628,fog,6,Speed Limit 50,35.47,False,,
+629,fog,6,Speed Limit 50,34.97,False,,
+630,fog,6,Speed Limit 50,34.47,False,,
+631,fog,6,Speed Limit 50,33.97,False,,
+632,fog,6,Speed Limit 50,33.47,False,,
+633,fog,6,Speed Limit 50,32.97,False,,
+634,fog,6,Speed Limit 50,32.47,False,,
+635,fog,6,Speed Limit 50,31.97,False,,
+636,fog,6,Speed Limit 50,31.47,False,,
+637,fog,6,Speed Limit 50,30.97,False,,
+638,fog,6,Speed Limit 50,30.47,False,,
+639,fog,6,Speed Limit 50,29.97,False,,
+640,fog,6,Speed Limit 50,29.47,False,,
+641,fog,6,Speed Limit 50,28.97,False,,
+642,fog,6,Speed Limit 50,28.47,False,,
+643,fog,6,Speed Limit 50,27.97,False,,
+644,fog,6,Speed Limit 50,27.47,False,,
+645,fog,6,Speed Limit 50,26.97,False,,
+646,fog,6,Speed Limit 50,26.47,False,,
+647,fog,6,Speed Limit 50,25.97,True,Speed Limit 50,0.433
+648,fog,6,Speed Limit 50,25.47,False,,
+649,fog,6,Speed Limit 50,24.97,False,,
+650,fog,6,Speed Limit 50,24.47,False,,
+651,fog,6,Speed Limit 50,23.97,False,,
+652,fog,6,Speed Limit 50,23.47,False,,
+653,fog,6,Speed Limit 50,22.97,False,,
+654,fog,6,Speed Limit 50,22.47,False,,
+655,fog,6,Speed Limit 50,21.97,False,,
+656,fog,6,Speed Limit 50,21.47,False,,
+657,fog,6,Speed Limit 50,20.97,False,,
+658,fog,6,Speed Limit 50,20.47,False,,
+659,fog,6,Speed Limit 50,19.97,False,,
+660,fog,6,Speed Limit 50,19.47,False,,
+661,fog,6,Speed Limit 50,18.97,False,,
+662,fog,6,Speed Limit 50,18.47,True,Speed Limit 50,0.455
+663,fog,6,Speed Limit 50,17.97,False,,
+664,fog,6,Speed Limit 50,17.47,True,Speed Limit 50,0.8
+665,fog,6,Speed Limit 50,16.97,True,Speed Limit 50,0.752
+666,fog,6,Speed Limit 50,16.47,True,Speed Limit 50,0.715
+667,fog,6,Speed Limit 50,15.97,True,Speed Limit 50,0.848
+668,fog,6,Speed Limit 50,15.47,True,Speed Limit 50,0.865
+669,fog,6,Speed Limit 50,14.97,True,Speed Limit 50,0.775
+670,fog,6,Speed Limit 50,14.47,True,Speed Limit 50,0.721
+671,fog,6,Speed Limit 50,13.97,True,Speed Limit 50,0.85
+672,fog,6,Speed Limit 50,13.47,True,Speed Limit 50,0.86
+673,fog,6,Speed Limit 50,12.97,True,Speed Limit 50,0.861
+674,fog,6,Speed Limit 50,12.47,True,Speed Limit 50,0.865
+675,fog,6,Speed Limit 50,11.97,True,Speed Limit 50,0.891
+676,fog,6,Speed Limit 50,11.47,True,Speed Limit 50,0.887
+677,fog,6,Speed Limit 50,10.97,True,Speed Limit 50,0.885
+678,fog,6,Speed Limit 50,10.47,True,Speed Limit 50,0.901
+679,fog,6,Speed Limit 50,9.97,True,Speed Limit 50,0.903
+680,fog,6,Speed Limit 50,9.47,True,Speed Limit 50,0.878
+681,fog,6,Speed Limit 50,8.97,True,Speed Limit 50,0.908
+682,fog,6,Speed Limit 50,8.47,True,Speed Limit 50,0.892
+683,fog,6,Speed Limit 50,7.97,True,Speed Limit 50,0.905
+684,fog,6,Speed Limit 50,7.47,True,Speed Limit 50,0.918
+819,fog,8,Keep Right,39.97,False,,
+820,fog,8,Keep Right,39.47,False,,
+821,fog,8,Keep Right,38.97,False,,
+822,fog,8,Keep Right,38.47,False,,
+823,fog,8,Keep Right,37.97,False,,
+824,fog,8,Keep Right,37.47,False,,
+825,fog,8,Keep Right,36.97,False,,
+826,fog,8,Keep Right,36.47,False,,
+827,fog,8,Keep Right,35.97,False,,
+828,fog,8,Keep Right,35.47,False,,
+829,fog,8,Keep Right,34.97,False,,
+830,fog,8,Keep Right,34.47,False,,
+831,fog,8,Keep Right,33.97,False,,
+832,fog,8,Keep Right,33.47,False,,
+833,fog,8,Keep Right,32.97,True,Keep Right,0.609
+834,fog,8,Keep Right,32.47,True,Keep Right,0.653
+835,fog,8,Keep Right,31.97,False,,
+836,fog,8,Keep Right,31.47,False,,
+837,fog,8,Keep Right,30.97,False,,
+838,fog,8,Keep Right,30.47,False,,
+839,fog,8,Keep Right,29.97,False,,
+840,fog,8,Keep Right,29.47,True,Keep Right,0.753
+841,fog,8,Keep Right,28.97,True,Keep Right,0.7
+842,fog,8,Keep Right,28.47,True,Keep Right,0.495
+843,fog,8,Keep Right,27.97,True,Keep Right,0.624
+844,fog,8,Keep Right,27.47,True,Keep Right,0.662
+845,fog,8,Keep Right,26.97,False,,
+846,fog,8,Keep Right,26.47,True,Keep Right,0.592
+847,fog,8,Keep Right,25.97,True,Keep Right,0.773
+848,fog,8,Keep Right,25.47,False,,
+849,fog,8,Keep Right,24.97,True,Keep Right,0.768
+850,fog,8,Keep Right,24.47,False,,
+851,fog,8,Keep Right,23.97,True,Keep Right,0.736
+852,fog,8,Keep Right,23.47,True,Keep Right,0.793
+853,fog,8,Keep Right,22.97,True,Keep Right,0.814
+854,fog,8,Keep Right,22.47,False,,
+855,fog,8,Keep Right,21.97,True,Keep Right,0.797
+856,fog,8,Keep Right,21.47,True,Keep Right,0.853
+857,fog,8,Keep Right,20.97,True,Keep Right,0.871
+858,fog,8,Keep Right,20.47,True,Keep Right,0.61
+859,fog,8,Keep Right,19.97,True,Keep Right,0.877
+860,fog,8,Keep Right,19.47,True,Keep Right,0.858
+861,fog,8,Keep Right,18.97,True,Keep Right,0.742
+862,fog,8,Keep Right,18.47,True,Keep Right,0.853
+863,fog,8,Keep Right,17.97,True,Keep Right,0.862
+864,fog,8,Keep Right,17.47,True,Keep Right,0.861
+865,fog,8,Keep Right,16.97,True,Keep Right,0.858
+866,fog,8,Keep Right,16.47,True,Keep Right,0.869
+867,fog,8,Keep Right,15.97,True,Keep Right,0.859
+868,fog,8,Keep Right,15.47,True,Keep Right,0.871
+869,fog,8,Keep Right,14.97,True,Keep Right,0.878
+870,fog,8,Keep Right,14.47,True,Keep Right,0.867
+871,fog,8,Keep Right,13.97,True,Keep Right,0.894
+872,fog,8,Keep Right,13.47,True,Keep Right,0.894
+873,fog,8,Keep Right,12.97,True,Keep Right,0.881
+874,fog,8,Keep Right,12.47,True,Keep Right,0.885
+875,fog,8,Keep Right,11.97,True,Keep Right,0.891
+876,fog,8,Keep Right,11.47,True,Keep Right,0.893
+877,fog,8,Keep Right,10.97,True,Keep Right,0.887
+878,fog,8,Keep Right,10.47,True,Keep Right,0.893
+879,fog,8,Keep Right,9.97,True,Keep Right,0.896
+880,fog,8,Keep Right,9.47,True,Keep Right,0.897
+881,fog,8,Keep Right,8.97,True,Keep Right,0.908
+882,fog,8,Keep Right,8.47,True,Keep Right,0.912
+883,fog,8,Keep Right,7.97,True,Keep Right,0.908
+884,fog,8,Keep Right,7.47,True,Keep Right,0.902
+19,dense_fog,0,Stop,40.0,False,,
+20,dense_fog,0,Stop,39.5,False,,
+21,dense_fog,0,Stop,39.0,False,,
+22,dense_fog,0,Stop,38.5,False,,
+23,dense_fog,0,Stop,38.0,False,,
+24,dense_fog,0,Stop,37.5,False,,
+25,dense_fog,0,Stop,37.0,False,,
+26,dense_fog,0,Stop,36.5,False,,
+27,dense_fog,0,Stop,36.0,False,,
+28,dense_fog,0,Stop,35.5,False,,
+29,dense_fog,0,Stop,35.0,False,,
+30,dense_fog,0,Stop,34.5,False,,
+31,dense_fog,0,Stop,34.0,False,,
+32,dense_fog,0,Stop,33.5,False,,
+33,dense_fog,0,Stop,33.0,False,,
+34,dense_fog,0,Stop,32.5,False,,
+35,dense_fog,0,Stop,32.0,False,,
+36,dense_fog,0,Stop,31.5,False,,
+37,dense_fog,0,Stop,31.0,False,,
+38,dense_fog,0,Stop,30.5,False,,
+39,dense_fog,0,Stop,30.0,True,Stop,0.546
+40,dense_fog,0,Stop,29.5,True,Stop,0.574
+41,dense_fog,0,Stop,29.0,True,Stop,0.633
+42,dense_fog,0,Stop,28.5,True,Stop,0.867
+43,dense_fog,0,Stop,28.0,True,Stop,0.843
+44,dense_fog,0,Stop,27.5,True,Stop,0.801
+45,dense_fog,0,Stop,27.0,True,Stop,0.788
+46,dense_fog,0,Stop,26.5,True,Stop,0.832
+47,dense_fog,0,Stop,26.0,True,Stop,0.877
+48,dense_fog,0,Stop,25.5,True,Stop,0.891
+49,dense_fog,0,Stop,25.0,True,Stop,0.855
+50,dense_fog,0,Stop,24.5,True,Stop,0.855
+51,dense_fog,0,Stop,24.0,True,Stop,0.856
+52,dense_fog,0,Stop,23.5,True,Stop,0.881
+53,dense_fog,0,Stop,23.0,True,Stop,0.864
+54,dense_fog,0,Stop,22.5,True,Stop,0.684
+55,dense_fog,0,Stop,22.0,True,Stop,0.853
+56,dense_fog,0,Stop,21.5,True,Stop,0.86
+57,dense_fog,0,Stop,21.0,True,Stop,0.829
+58,dense_fog,0,Stop,20.5,True,Stop,0.842
+59,dense_fog,0,Stop,20.0,True,Stop,0.849
+60,dense_fog,0,Stop,19.5,True,Stop,0.868
+61,dense_fog,0,Stop,19.0,True,Stop,0.865
+62,dense_fog,0,Stop,18.5,True,Stop,0.844
+63,dense_fog,0,Stop,18.0,True,Stop,0.863
+64,dense_fog,0,Stop,17.5,True,Stop,0.852
+65,dense_fog,0,Stop,17.0,True,Stop,0.869
+66,dense_fog,0,Stop,16.5,True,Stop,0.836
+67,dense_fog,0,Stop,16.0,True,Stop,0.842
+68,dense_fog,0,Stop,15.5,True,Stop,0.853
+69,dense_fog,0,Stop,15.0,True,Stop,0.858
+70,dense_fog,0,Stop,14.5,True,Stop,0.844
+71,dense_fog,0,Stop,14.0,True,Stop,0.878
+72,dense_fog,0,Stop,13.5,True,Stop,0.868
+73,dense_fog,0,Stop,13.0,True,Stop,0.886
+74,dense_fog,0,Stop,12.5,True,Stop,0.882
+75,dense_fog,0,Stop,12.0,True,Stop,0.88
+76,dense_fog,0,Stop,11.5,True,Stop,0.865
+77,dense_fog,0,Stop,11.0,True,Stop,0.836
+78,dense_fog,0,Stop,10.5,True,Stop,0.887
+79,dense_fog,0,Stop,10.0,True,Stop,0.888
+80,dense_fog,0,Stop,9.5,True,Stop,0.882
+81,dense_fog,0,Stop,9.0,True,Stop,0.884
+82,dense_fog,0,Stop,8.5,True,Stop,0.899
+83,dense_fog,0,Stop,8.0,True,Stop,0.891
+84,dense_fog,0,Stop,7.5,True,Stop,0.906
+219,dense_fog,2,Speed Limit 30,39.97,False,,
+220,dense_fog,2,Speed Limit 30,39.47,False,,
+221,dense_fog,2,Speed Limit 30,38.97,False,,
+222,dense_fog,2,Speed Limit 30,38.47,False,,
+223,dense_fog,2,Speed Limit 30,37.97,False,,
+224,dense_fog,2,Speed Limit 30,37.47,False,,
+225,dense_fog,2,Speed Limit 30,36.97,False,,
+226,dense_fog,2,Speed Limit 30,36.47,False,,
+227,dense_fog,2,Speed Limit 30,35.97,False,,
+228,dense_fog,2,Speed Limit 30,35.47,False,,
+229,dense_fog,2,Speed Limit 30,34.97,False,,
+230,dense_fog,2,Speed Limit 30,34.47,False,,
+231,dense_fog,2,Speed Limit 30,33.97,False,,
+232,dense_fog,2,Speed Limit 30,33.47,False,,
+233,dense_fog,2,Speed Limit 30,32.97,False,,
+234,dense_fog,2,Speed Limit 30,32.47,False,,
+235,dense_fog,2,Speed Limit 30,31.97,False,,
+236,dense_fog,2,Speed Limit 30,31.47,False,,
+237,dense_fog,2,Speed Limit 30,30.97,False,,
+238,dense_fog,2,Speed Limit 30,30.47,False,,
+239,dense_fog,2,Speed Limit 30,29.97,False,,
+240,dense_fog,2,Speed Limit 30,29.47,False,,
+241,dense_fog,2,Speed Limit 30,28.97,False,,
+242,dense_fog,2,Speed Limit 30,28.47,False,,
+243,dense_fog,2,Speed Limit 30,27.97,False,,
+244,dense_fog,2,Speed Limit 30,27.47,False,,
+245,dense_fog,2,Speed Limit 30,26.97,False,,
+246,dense_fog,2,Speed Limit 30,26.47,False,,
+247,dense_fog,2,Speed Limit 30,25.97,False,,
+248,dense_fog,2,Speed Limit 30,25.47,False,,
+249,dense_fog,2,Speed Limit 30,24.97,False,,
+250,dense_fog,2,Speed Limit 30,24.47,False,,
+251,dense_fog,2,Speed Limit 30,23.97,False,,
+252,dense_fog,2,Speed Limit 30,23.47,False,,
+253,dense_fog,2,Speed Limit 30,22.97,False,,
+254,dense_fog,2,Speed Limit 30,22.47,False,,
+255,dense_fog,2,Speed Limit 30,21.97,False,,
+256,dense_fog,2,Speed Limit 30,21.47,False,Speed Limit 50,0.523
+257,dense_fog,2,Speed Limit 30,20.97,False,,
+258,dense_fog,2,Speed Limit 30,20.47,False,,
+259,dense_fog,2,Speed Limit 30,19.97,False,,
+260,dense_fog,2,Speed Limit 30,19.47,False,,
+261,dense_fog,2,Speed Limit 30,18.97,False,,
+262,dense_fog,2,Speed Limit 30,18.47,False,Speed Limit 50,0.458
+263,dense_fog,2,Speed Limit 30,17.97,False,,
+264,dense_fog,2,Speed Limit 30,17.47,False,,
+265,dense_fog,2,Speed Limit 30,16.97,False,,
+266,dense_fog,2,Speed Limit 30,16.47,False,,
+267,dense_fog,2,Speed Limit 30,15.97,False,Speed Limit 50,0.689
+268,dense_fog,2,Speed Limit 30,15.47,False,,
+269,dense_fog,2,Speed Limit 30,14.97,False,,
+270,dense_fog,2,Speed Limit 30,14.47,False,,
+271,dense_fog,2,Speed Limit 30,13.97,True,Speed Limit 30,0.783
+272,dense_fog,2,Speed Limit 30,13.47,True,Speed Limit 30,0.804
+273,dense_fog,2,Speed Limit 30,12.97,False,,
+274,dense_fog,2,Speed Limit 30,12.47,False,,
+275,dense_fog,2,Speed Limit 30,11.97,True,Speed Limit 30,0.895
+276,dense_fog,2,Speed Limit 30,11.47,True,Speed Limit 30,0.874
+277,dense_fog,2,Speed Limit 30,10.97,True,Speed Limit 30,0.906
+278,dense_fog,2,Speed Limit 30,10.47,False,,
+279,dense_fog,2,Speed Limit 30,9.97,True,Speed Limit 30,0.884
+280,dense_fog,2,Speed Limit 30,9.47,True,Speed Limit 30,0.904
+281,dense_fog,2,Speed Limit 30,8.97,True,Speed Limit 30,0.879
+282,dense_fog,2,Speed Limit 30,8.47,True,Speed Limit 30,0.905
+283,dense_fog,2,Speed Limit 30,7.97,True,Speed Limit 30,0.912
+284,dense_fog,2,Speed Limit 30,7.47,True,Speed Limit 30,0.839
+319,dense_fog,3,Give Way,40.0,False,,
+320,dense_fog,3,Give Way,39.5,False,,
+321,dense_fog,3,Give Way,39.0,False,,
+322,dense_fog,3,Give Way,38.5,False,,
+323,dense_fog,3,Give Way,38.0,False,,
+324,dense_fog,3,Give Way,37.5,False,,
+325,dense_fog,3,Give Way,37.0,False,,
+326,dense_fog,3,Give Way,36.5,False,,
+327,dense_fog,3,Give Way,36.0,False,,
+328,dense_fog,3,Give Way,35.5,False,,
+329,dense_fog,3,Give Way,35.0,False,,
+330,dense_fog,3,Give Way,34.5,False,,
+331,dense_fog,3,Give Way,34.0,False,,
+332,dense_fog,3,Give Way,33.5,False,,
+333,dense_fog,3,Give Way,33.0,True,Give Way,0.629
+334,dense_fog,3,Give Way,32.5,True,Give Way,0.756
+335,dense_fog,3,Give Way,32.0,True,Give Way,0.833
+336,dense_fog,3,Give Way,31.5,True,Give Way,0.838
+337,dense_fog,3,Give Way,31.0,True,Give Way,0.834
+338,dense_fog,3,Give Way,30.5,True,Give Way,0.814
+339,dense_fog,3,Give Way,30.0,True,Give Way,0.818
+340,dense_fog,3,Give Way,29.5,True,Give Way,0.825
+341,dense_fog,3,Give Way,29.0,True,Give Way,0.832
+342,dense_fog,3,Give Way,28.5,True,Give Way,0.84
+343,dense_fog,3,Give Way,28.0,True,Give Way,0.839
+344,dense_fog,3,Give Way,27.5,True,Give Way,0.829
+345,dense_fog,3,Give Way,27.0,True,Give Way,0.837
+346,dense_fog,3,Give Way,26.5,True,Give Way,0.846
+347,dense_fog,3,Give Way,26.0,True,Give Way,0.869
+348,dense_fog,3,Give Way,25.5,True,Give Way,0.878
+349,dense_fog,3,Give Way,25.0,True,Give Way,0.868
+350,dense_fog,3,Give Way,24.5,True,Give Way,0.856
+351,dense_fog,3,Give Way,24.0,True,Give Way,0.863
+352,dense_fog,3,Give Way,23.5,True,Give Way,0.876
+353,dense_fog,3,Give Way,23.0,True,Give Way,0.87
+354,dense_fog,3,Give Way,22.5,True,Give Way,0.866
+355,dense_fog,3,Give Way,22.0,True,Give Way,0.867
+356,dense_fog,3,Give Way,21.5,True,Give Way,0.863
+357,dense_fog,3,Give Way,21.0,True,Give Way,0.864
+358,dense_fog,3,Give Way,20.5,True,Give Way,0.866
+359,dense_fog,3,Give Way,20.0,True,Give Way,0.864
+360,dense_fog,3,Give Way,19.5,True,Give Way,0.864
+361,dense_fog,3,Give Way,19.0,True,Give Way,0.878
+362,dense_fog,3,Give Way,18.5,True,Give Way,0.869
+363,dense_fog,3,Give Way,18.0,True,Give Way,0.877
+364,dense_fog,3,Give Way,17.5,True,Give Way,0.877
+365,dense_fog,3,Give Way,17.0,True,Give Way,0.873
+366,dense_fog,3,Give Way,16.5,True,Give Way,0.88
+367,dense_fog,3,Give Way,16.0,True,Give Way,0.885
+368,dense_fog,3,Give Way,15.5,True,Give Way,0.881
+369,dense_fog,3,Give Way,15.0,True,Give Way,0.874
+370,dense_fog,3,Give Way,14.5,True,Give Way,0.887
+371,dense_fog,3,Give Way,14.0,True,Give Way,0.886
+372,dense_fog,3,Give Way,13.5,True,Give Way,0.89
+373,dense_fog,3,Give Way,13.0,True,Give Way,0.887
+374,dense_fog,3,Give Way,12.5,True,Give Way,0.896
+375,dense_fog,3,Give Way,12.0,True,Give Way,0.896
+376,dense_fog,3,Give Way,11.5,True,Give Way,0.883
+377,dense_fog,3,Give Way,11.0,True,Give Way,0.889
+378,dense_fog,3,Give Way,10.5,True,Give Way,0.878
+379,dense_fog,3,Give Way,10.0,True,Give Way,0.874
+380,dense_fog,3,Give Way,9.5,True,Give Way,0.876
+381,dense_fog,3,Give Way,9.0,True,Give Way,0.895
+382,dense_fog,3,Give Way,8.5,True,Give Way,0.879
+383,dense_fog,3,Give Way,8.0,True,Give Way,0.875
+384,dense_fog,3,Give Way,7.5,True,Give Way,0.885
+519,dense_fog,5,No Entry,39.97,False,,
+520,dense_fog,5,No Entry,39.47,False,,
+521,dense_fog,5,No Entry,38.97,False,,
+522,dense_fog,5,No Entry,38.47,False,,
+523,dense_fog,5,No Entry,37.97,False,,
+524,dense_fog,5,No Entry,37.47,False,,
+525,dense_fog,5,No Entry,36.97,False,,
+526,dense_fog,5,No Entry,36.47,False,,
+527,dense_fog,5,No Entry,35.97,False,,
+528,dense_fog,5,No Entry,35.47,False,,
+529,dense_fog,5,No Entry,34.97,False,,
+530,dense_fog,5,No Entry,34.47,False,,
+531,dense_fog,5,No Entry,33.97,False,,
+532,dense_fog,5,No Entry,33.47,False,,
+533,dense_fog,5,No Entry,32.97,False,,
+534,dense_fog,5,No Entry,32.47,True,No Entry,0.567
+535,dense_fog,5,No Entry,31.97,True,No Entry,0.704
+536,dense_fog,5,No Entry,31.47,True,No Entry,0.721
+537,dense_fog,5,No Entry,30.97,True,No Entry,0.727
+538,dense_fog,5,No Entry,30.47,True,No Entry,0.762
+539,dense_fog,5,No Entry,29.97,True,No Entry,0.774
+540,dense_fog,5,No Entry,29.47,True,No Entry,0.783
+541,dense_fog,5,No Entry,28.97,True,No Entry,0.798
+542,dense_fog,5,No Entry,28.47,True,No Entry,0.787
+543,dense_fog,5,No Entry,27.97,True,No Entry,0.75
+544,dense_fog,5,No Entry,27.47,True,No Entry,0.792
+545,dense_fog,5,No Entry,26.97,True,No Entry,0.789
+546,dense_fog,5,No Entry,26.47,True,No Entry,0.825
+547,dense_fog,5,No Entry,25.97,True,No Entry,0.823
+548,dense_fog,5,No Entry,25.47,True,No Entry,0.804
+549,dense_fog,5,No Entry,24.97,True,No Entry,0.825
+550,dense_fog,5,No Entry,24.47,True,No Entry,0.82
+551,dense_fog,5,No Entry,23.97,True,No Entry,0.837
+552,dense_fog,5,No Entry,23.47,True,No Entry,0.83
+553,dense_fog,5,No Entry,22.97,True,No Entry,0.851
+554,dense_fog,5,No Entry,22.47,True,No Entry,0.829
+555,dense_fog,5,No Entry,21.97,True,No Entry,0.841
+556,dense_fog,5,No Entry,21.47,True,No Entry,0.848
+557,dense_fog,5,No Entry,20.97,True,No Entry,0.847
+558,dense_fog,5,No Entry,20.47,True,No Entry,0.859
+559,dense_fog,5,No Entry,19.97,True,No Entry,0.854
+560,dense_fog,5,No Entry,19.47,True,No Entry,0.846
+561,dense_fog,5,No Entry,18.97,True,No Entry,0.879
+562,dense_fog,5,No Entry,18.47,True,No Entry,0.847
+563,dense_fog,5,No Entry,17.97,True,No Entry,0.869
+564,dense_fog,5,No Entry,17.47,True,No Entry,0.868
+565,dense_fog,5,No Entry,16.97,True,No Entry,0.869
+566,dense_fog,5,No Entry,16.47,True,No Entry,0.877
+567,dense_fog,5,No Entry,15.97,True,No Entry,0.87
+568,dense_fog,5,No Entry,15.47,True,No Entry,0.866
+569,dense_fog,5,No Entry,14.97,True,No Entry,0.87
+570,dense_fog,5,No Entry,14.47,True,No Entry,0.863
+571,dense_fog,5,No Entry,13.97,True,No Entry,0.872
+572,dense_fog,5,No Entry,13.47,True,No Entry,0.871
+573,dense_fog,5,No Entry,12.97,True,No Entry,0.86
+574,dense_fog,5,No Entry,12.47,True,No Entry,0.871
+575,dense_fog,5,No Entry,11.97,True,No Entry,0.875
+576,dense_fog,5,No Entry,11.47,True,No Entry,0.872
+577,dense_fog,5,No Entry,10.97,True,No Entry,0.891
+578,dense_fog,5,No Entry,10.47,True,No Entry,0.902
+579,dense_fog,5,No Entry,9.97,True,No Entry,0.9
+580,dense_fog,5,No Entry,9.47,True,No Entry,0.905
+581,dense_fog,5,No Entry,8.97,True,No Entry,0.912
+582,dense_fog,5,No Entry,8.47,True,No Entry,0.906
+583,dense_fog,5,No Entry,7.97,True,No Entry,0.907
+584,dense_fog,5,No Entry,7.47,True,No Entry,0.898
+619,dense_fog,6,Speed Limit 50,39.97,False,,
+620,dense_fog,6,Speed Limit 50,39.47,False,,
+621,dense_fog,6,Speed Limit 50,38.97,False,,
+622,dense_fog,6,Speed Limit 50,38.47,False,,
+623,dense_fog,6,Speed Limit 50,37.97,False,,
+624,dense_fog,6,Speed Limit 50,37.47,False,,
+625,dense_fog,6,Speed Limit 50,36.97,False,,
+626,dense_fog,6,Speed Limit 50,36.47,False,,
+627,dense_fog,6,Speed Limit 50,35.97,False,,
+628,dense_fog,6,Speed Limit 50,35.47,False,,
+629,dense_fog,6,Speed Limit 50,34.97,False,,
+630,dense_fog,6,Speed Limit 50,34.47,False,,
+631,dense_fog,6,Speed Limit 50,33.97,False,,
+632,dense_fog,6,Speed Limit 50,33.47,False,,
+633,dense_fog,6,Speed Limit 50,32.97,False,,
+634,dense_fog,6,Speed Limit 50,32.47,False,,
+635,dense_fog,6,Speed Limit 50,31.97,False,,
+636,dense_fog,6,Speed Limit 50,31.47,False,,
+637,dense_fog,6,Speed Limit 50,30.97,False,,
+638,dense_fog,6,Speed Limit 50,30.47,False,,
+639,dense_fog,6,Speed Limit 50,29.97,False,,
+640,dense_fog,6,Speed Limit 50,29.47,False,,
+641,dense_fog,6,Speed Limit 50,28.97,False,,
+642,dense_fog,6,Speed Limit 50,28.47,False,,
+643,dense_fog,6,Speed Limit 50,27.97,False,,
+644,dense_fog,6,Speed Limit 50,27.47,False,,
+645,dense_fog,6,Speed Limit 50,26.97,True,Speed Limit 50,0.5
+646,dense_fog,6,Speed Limit 50,26.47,False,,
+647,dense_fog,6,Speed Limit 50,25.97,True,Speed Limit 50,0.448
+648,dense_fog,6,Speed Limit 50,25.47,False,,
+649,dense_fog,6,Speed Limit 50,24.97,False,,
+650,dense_fog,6,Speed Limit 50,24.47,False,,
+651,dense_fog,6,Speed Limit 50,23.97,False,,
+652,dense_fog,6,Speed Limit 50,23.47,False,,
+653,dense_fog,6,Speed Limit 50,22.97,False,,
+654,dense_fog,6,Speed Limit 50,22.47,False,,
+655,dense_fog,6,Speed Limit 50,21.97,False,,
+656,dense_fog,6,Speed Limit 50,21.47,False,,
+657,dense_fog,6,Speed Limit 50,20.97,False,,
+658,dense_fog,6,Speed Limit 50,20.47,False,,
+659,dense_fog,6,Speed Limit 50,19.97,False,,
+660,dense_fog,6,Speed Limit 50,19.47,False,,
+661,dense_fog,6,Speed Limit 50,18.97,False,,
+662,dense_fog,6,Speed Limit 50,18.47,False,,
+663,dense_fog,6,Speed Limit 50,17.97,False,,
+664,dense_fog,6,Speed Limit 50,17.47,True,Speed Limit 50,0.807
+665,dense_fog,6,Speed Limit 50,16.97,True,Speed Limit 50,0.71
+666,dense_fog,6,Speed Limit 50,16.47,False,,
+667,dense_fog,6,Speed Limit 50,15.97,True,Speed Limit 50,0.82
+668,dense_fog,6,Speed Limit 50,15.47,True,Speed Limit 50,0.82
+669,dense_fog,6,Speed Limit 50,14.97,True,Speed Limit 50,0.773
+670,dense_fog,6,Speed Limit 50,14.47,True,Speed Limit 50,0.643
+671,dense_fog,6,Speed Limit 50,13.97,True,Speed Limit 50,0.828
+672,dense_fog,6,Speed Limit 50,13.47,True,Speed Limit 50,0.856
+673,dense_fog,6,Speed Limit 50,12.97,True,Speed Limit 50,0.868
+674,dense_fog,6,Speed Limit 50,12.47,True,Speed Limit 50,0.808
+675,dense_fog,6,Speed Limit 50,11.97,True,Speed Limit 50,0.902
+676,dense_fog,6,Speed Limit 50,11.47,True,Speed Limit 50,0.897
+677,dense_fog,6,Speed Limit 50,10.97,True,Speed Limit 50,0.891
+678,dense_fog,6,Speed Limit 50,10.47,True,Speed Limit 50,0.822
+679,dense_fog,6,Speed Limit 50,9.97,True,Speed Limit 50,0.906
+680,dense_fog,6,Speed Limit 50,9.47,True,Speed Limit 50,0.882
+681,dense_fog,6,Speed Limit 50,8.97,True,Speed Limit 50,0.901
+682,dense_fog,6,Speed Limit 50,8.47,True,Speed Limit 50,0.896
+683,dense_fog,6,Speed Limit 50,7.97,True,Speed Limit 50,0.906
+684,dense_fog,6,Speed Limit 50,7.47,True,Speed Limit 50,0.918
+819,dense_fog,8,Keep Right,39.97,False,,
+820,dense_fog,8,Keep Right,39.47,False,,
+821,dense_fog,8,Keep Right,38.97,False,,
+822,dense_fog,8,Keep Right,38.47,False,,
+823,dense_fog,8,Keep Right,37.97,False,,
+824,dense_fog,8,Keep Right,37.47,False,,
+825,dense_fog,8,Keep Right,36.97,False,,
+826,dense_fog,8,Keep Right,36.47,False,,
+827,dense_fog,8,Keep Right,35.97,False,,
+828,dense_fog,8,Keep Right,35.47,False,,
+829,dense_fog,8,Keep Right,34.97,False,,
+830,dense_fog,8,Keep Right,34.47,False,,
+831,dense_fog,8,Keep Right,33.97,False,,
+832,dense_fog,8,Keep Right,33.47,False,,
+833,dense_fog,8,Keep Right,32.97,False,,
+834,dense_fog,8,Keep Right,32.47,False,,
+835,dense_fog,8,Keep Right,31.97,False,,
+836,dense_fog,8,Keep Right,31.47,False,,
+837,dense_fog,8,Keep Right,30.97,True,Keep Right,0.555
+838,dense_fog,8,Keep Right,30.47,False,,
+839,dense_fog,8,Keep Right,29.97,False,,
+840,dense_fog,8,Keep Right,29.47,True,Keep Right,0.778
+841,dense_fog,8,Keep Right,28.97,True,Keep Right,0.728
+842,dense_fog,8,Keep Right,28.47,True,Keep Right,0.694
+843,dense_fog,8,Keep Right,27.97,True,Keep Right,0.791
+844,dense_fog,8,Keep Right,27.47,True,Keep Right,0.665
+845,dense_fog,8,Keep Right,26.97,True,Keep Right,0.59
+846,dense_fog,8,Keep Right,26.47,True,Keep Right,0.788
+847,dense_fog,8,Keep Right,25.97,True,Keep Right,0.824
+848,dense_fog,8,Keep Right,25.47,True,Keep Right,0.834
+849,dense_fog,8,Keep Right,24.97,True,Keep Right,0.814
+850,dense_fog,8,Keep Right,24.47,True,Keep Right,0.554
+851,dense_fog,8,Keep Right,23.97,True,Keep Right,0.785
+852,dense_fog,8,Keep Right,23.47,True,Keep Right,0.846
+853,dense_fog,8,Keep Right,22.97,True,Keep Right,0.827
+854,dense_fog,8,Keep Right,22.47,True,Keep Right,0.691
+855,dense_fog,8,Keep Right,21.97,True,Keep Right,0.811
+856,dense_fog,8,Keep Right,21.47,True,Keep Right,0.86
+857,dense_fog,8,Keep Right,20.97,True,Keep Right,0.865
+858,dense_fog,8,Keep Right,20.47,False,,
+859,dense_fog,8,Keep Right,19.97,True,Keep Right,0.877
+860,dense_fog,8,Keep Right,19.47,True,Keep Right,0.855
+861,dense_fog,8,Keep Right,18.97,False,,
+862,dense_fog,8,Keep Right,18.47,True,Keep Right,0.847
+863,dense_fog,8,Keep Right,17.97,True,Keep Right,0.859
+864,dense_fog,8,Keep Right,17.47,True,Keep Right,0.848
+865,dense_fog,8,Keep Right,16.97,True,Keep Right,0.871
+866,dense_fog,8,Keep Right,16.47,True,Keep Right,0.867
+867,dense_fog,8,Keep Right,15.97,True,Keep Right,0.868
+868,dense_fog,8,Keep Right,15.47,True,Keep Right,0.867
+869,dense_fog,8,Keep Right,14.97,True,Keep Right,0.839
+870,dense_fog,8,Keep Right,14.47,True,Keep Right,0.851
+871,dense_fog,8,Keep Right,13.97,True,Keep Right,0.899
+872,dense_fog,8,Keep Right,13.47,True,Keep Right,0.896
+873,dense_fog,8,Keep Right,12.97,True,Keep Right,0.891
+874,dense_fog,8,Keep Right,12.47,True,Keep Right,0.89
+875,dense_fog,8,Keep Right,11.97,True,Keep Right,0.9
+876,dense_fog,8,Keep Right,11.47,True,Keep Right,0.903
+877,dense_fog,8,Keep Right,10.97,True,Keep Right,0.897
+878,dense_fog,8,Keep Right,10.47,True,Keep Right,0.902
+879,dense_fog,8,Keep Right,9.97,True,Keep Right,0.909
+880,dense_fog,8,Keep Right,9.47,True,Keep Right,0.905
+881,dense_fog,8,Keep Right,8.97,True,Keep Right,0.909
+882,dense_fog,8,Keep Right,8.47,True,Keep Right,0.909
+883,dense_fog,8,Keep Right,7.97,True,Keep Right,0.902
+884,dense_fog,8,Keep Right,7.47,True,Keep Right,0.905

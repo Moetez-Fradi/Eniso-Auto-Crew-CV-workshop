@@ -1,0 +1,137 @@
+split,file,action,cls_name,x,y,w,h,evidence,reviewer
+train,a_000648_jpg.rf.18827934dcaa01dcb9ea37ad4a62eeff.jpg,add,Stop,0.902045,0.560372,0.195251,0.396149,"model conf 0.759, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_000824_JPG.rf.57794467b96ddd7c8a7d6d42384d5daa.jpg,add,Speed Limit 30,0.740338,0.588687,0.243466,0.305975,"model conf 0.84, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_001710_jpg.rf.9e2c53026991463afd9bfbdad6e73ac2.jpg,add,No Entry,0.827612,0.422264,0.055839,0.089616,"model conf 0.791, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_001710_jpg.rf.9e2c53026991463afd9bfbdad6e73ac2.jpg,add,No Entry,0.192987,0.209781,0.253856,0.419563,"model conf 0.784, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_001712_jpg.rf.f339b82f3dddfe25a6c4a1ce10b66533.jpg,add,No Entry,0.785427,0.532264,0.050437,0.072211,"model conf 0.846, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_001712_jpg.rf.f339b82f3dddfe25a6c4a1ce10b66533.jpg,add,No Entry,0.28572,0.534484,0.047197,0.069885,"model conf 0.817, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_001713_jpg.rf.a3a91426cc90c8dd1bab48fa7c0aeea8.jpg,add,No Entry,0.720643,0.290126,0.076904,0.111246,"model conf 0.861, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_001713_jpg.rf.a3a91426cc90c8dd1bab48fa7c0aeea8.jpg,add,No Entry,0.22456,0.333892,0.066204,0.105587,"model conf 0.859, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_001716_jpg.rf.5bbeaec8d865d3dc4ccb39e30165cc31.jpg,add,No Entry,0.451996,0.355877,0.198945,0.336248,"model conf 0.847, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_001725_jpg.rf.4eb195e730557ea53ee64f4f2bf8c2b9.jpg,add,No Entry,0.354783,0.304577,0.341445,0.492198,"model conf 0.86, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_001725_jpg.rf.4eb195e730557ea53ee64f4f2bf8c2b9.jpg,add,No Entry,0.729486,0.455025,0.264634,0.412783,"model conf 0.818, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_00206-1-_jpg.rf.c207e5043fdbced8724c7798ea51dd7c.jpg,add,Give Way,0.080989,0.069534,0.089031,0.126679,"model conf 0.776, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_00501-1-_jpg.rf.32b813d1ae1a9edf68e502618fac0736.jpg,add,Keep Right,0.119881,0.87196,0.089338,0.151093,"model conf 0.542, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_005058_jpg.rf.9e3f43961246b369db1476ece10423d0.jpg,add,No Entry,0.625858,0.809323,0.219736,0.381355,"model conf 0.758, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_005058_jpg.rf.9e3f43961246b369db1476ece10423d0.jpg,add,Stop,0.862361,0.809893,0.21942,0.380213,"model conf 0.504, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_005158_jpg.rf.092d6e834d46e363383f2d3ef2e57961.jpg,add,No Entry,0.374114,0.809759,0.219239,0.380481,"model conf 0.786, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_005158_jpg.rf.092d6e834d46e363383f2d3ef2e57961.jpg,add,Stop,0.133611,0.80818,0.223547,0.38364,"model conf 0.529, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_00624-1-_jpg.rf.1e4564e5977389fe837fb5b6dc2af867.jpg,add,Keep Right,0.302643,0.663798,0.040149,0.060747,"model conf 0.815, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_00675-1-_jpg.rf.d88f1ae4e35fc868c0d68423a999db0d.jpg,add,Keep Right,0.484132,0.650097,0.02784,0.047803,"model conf 0.725, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_00827-1-_jpg.rf.e51ebb68b08de1bc7f542e218eaca6a7.jpg,add,Keep Right,0.407432,0.612959,0.028094,0.050595,"model conf 0.54, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323804419-avi_image32_png.rf.c1ebf516f800d7685b134a44f19590ff.jpg,add,Stop,0.042807,0.104683,0.049772,0.065503,"model conf 0.832, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323804497-avi_image14_png.rf.18c9fcfd35d82c5164483d064033e882.jpg,add,Stop,0.038927,0.072626,0.043929,0.057807,"model conf 0.547, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323804497-avi_image15_png.rf.0c860e5eb07d50757910cc51f2b26aba.jpg,add,Stop,0.018993,0.079389,0.037985,0.06849,"model conf 0.749, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323820452-avi_image21_png.rf.83349d7d0726c1ab6aa8599d8b918873.jpg,add,Stop,0.030163,0.549079,0.060186,0.086774,"model conf 0.846, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323820452-avi_image22_png.rf.89e15fbf1c84f6454d9e7470e1084854.jpg,add,Stop,0.028995,0.545598,0.057638,0.086108,"model conf 0.784, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323820452-avi_image23_png.rf.2df5a82bde3ac23dab8d14360b8a9656.jpg,add,Stop,0.026905,0.546321,0.053809,0.086541,"model conf 0.817, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323820452-avi_image24_png.rf.5e1b5c9c6d1a61d91974941d599a6983.jpg,add,Stop,0.025168,0.544719,0.050336,0.089923,"model conf 0.848, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323820452-avi_image2_png.rf.2c8d48cdc0b8ddfcd872f238756c49d5.jpg,add,Stop,0.061709,0.624075,0.047048,0.059821,"model conf 0.821, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323820452-avi_image8_png.rf.72a5a1e813c345ebd742d9fe8a4473d9.jpg,add,Stop,0.040805,0.583094,0.043362,0.061912,"model conf 0.812, no GT overlap; visually confirmed",visual review 2026-11-13
+train,a_stop_1323820452-avi_image9_png.rf.e8f6bfe32a1b459be7047f3b1203fb69.jpg,add,Stop,0.041036,0.582353,0.041547,0.06101,"model conf 0.638, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_no_entry-122~warn_cyclists-2~mand_go_straight_right-2~mand_pass_left_right-2.jpg,add,Give Way,0.428523,0.272473,0.139993,0.128485,"model conf 0.732, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_no_entry-19~forb_weight_over_3.5t-1~info_parking-3.jpg,add,Speed Limit 30,0.234537,0.426184,0.059224,0.101865,"model conf 0.881, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_no_entry-40~forb_weight_over_3.5t-2-3~info_crosswalk-5~info_one_way-1~mand_go_straight_right-1.jpg,add,No Entry,0.43553,0.404244,0.021795,0.025232,"model conf 0.725, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_no_entry-86.jpg,add,No Entry,0.354783,0.304577,0.341445,0.492198,"model conf 0.86, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_no_entry-86.jpg,add,No Entry,0.729486,0.455025,0.264634,0.412783,"model conf 0.818, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_no_parking-161.jpg,add,No Entry,0.410716,0.414746,0.232705,0.320622,"model conf 0.772, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_no_parking-162.jpg,add,Speed Limit 30,0.408888,0.409598,0.029541,0.067976,"model conf 0.821, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_no_stopping-196~mand_go_left_right-1.jpg,add,Give Way,0.248351,0.421264,0.045343,0.043319,"model conf 0.803, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_10-23~warn_construction-16.jpg,add,Speed Limit 30,0.198525,0.37784,0.030311,0.029004,"model conf 0.649, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_110-87-88.jpg,add,Give Way,0.850422,0.449495,0.019639,0.043467,"model conf 0.633, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_30-139~mand_pass_left_right-16.jpg,add,Stop,0.15435,0.244182,0.02897,0.030786,"model conf 0.7, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_30-255~warn_roundabout-58.jpg,add,Give Way,0.04437,0.397093,0.02372,0.019107,"model conf 0.663, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_30-263~mand_go_right-9.jpg,add,Give Way,0.856599,0.405476,0.130079,0.134659,"model conf 0.676, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_30-38.jpg,add,Give Way,0.033091,0.342397,0.018796,0.017362,"model conf 0.717, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_40-124~warn_construction-49~warn_crosswalk-54~warn_poor_road_surface-11.jpg,add,Speed Limit 30,0.550697,0.55197,0.086429,0.094564,"model conf 0.85, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_60-52~forb_turn_left-37~warn_hump-61.jpg,add,Speed Limit 30,0.45335,0.710102,0.127155,0.262072,"model conf 0.826, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_80-127.jpg,add,Stop,0.402898,0.329877,0.094616,0.077543,"model conf 0.577, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_speed_over_80-257.jpg,add,Stop,0.902045,0.560372,0.195251,0.396149,"model conf 0.759, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_turn_left-107~info_parking-72.jpg,add,Give Way,0.253021,0.485258,0.020652,0.017814,"model conf 0.75, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_turn_right-55~mand_roundabout-4-5.jpg,add,Give Way,0.645928,0.400881,0.03125,0.0286,"model conf 0.668, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_turn_right-56~mand_roundabout-6.jpg,add,Give Way,0.841207,0.270443,0.092889,0.088118,"model conf 0.689, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_forb_turn_right-57~mand_roundabout-7-8.jpg,add,Give Way,0.623627,0.337481,0.038588,0.035895,"model conf 0.715, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_info_crosswalk-367.jpg,add,Stop,0.292447,0.403864,0.02808,0.030685,"model conf 0.746, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_info_parking-183~mand_roundabout-12.jpg,add,Give Way,0.669208,0.579108,0.237335,0.234229,"model conf 0.8, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_left_right-3.jpg,add,Give Way,0.621115,0.390142,0.031864,0.048066,"model conf 0.744, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_right-22~mand_pass_right-46~mand_roundabout-15.jpg,add,Keep Right,0.878594,0.269636,0.037407,0.041015,"model conf 0.822, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_right-31.jpg,add,Give Way,0.396288,0.369836,0.059561,0.055228,"model conf 0.568, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_right-32.jpg,add,Give Way,0.484231,0.283618,0.112201,0.103456,"model conf 0.766, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_right-33.jpg,add,Give Way,0.560286,0.351132,0.149312,0.150864,"model conf 0.638, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_right-34.jpg,add,Give Way,0.729135,0.499514,0.140684,0.136319,"model conf 0.753, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_straight-40.jpg,add,Give Way,0.519549,0.46311,0.190752,0.108034,"model conf 0.521, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_straight-48.jpg,add,Give Way,0.333892,0.422976,0.262441,0.112222,"model conf 0.576, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_straight-57-58-59.jpg,add,Give Way,0.370114,0.507683,0.021923,0.052584,"model conf 0.648, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_straight-93-94-95.jpg,add,Give Way,0.779082,0.435206,0.038834,0.036107,"model conf 0.544, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_straight-97.jpg,add,Give Way,0.516038,0.566614,0.188048,0.115621,"model conf 0.725, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_straight-98.jpg,add,Give Way,0.532448,0.515021,0.148485,0.09814,"model conf 0.643, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_straight_right-25.jpg,add,Give Way,0.503426,0.411304,0.064047,0.060017,"model conf 0.658, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_go_straight_right-26.jpg,add,Give Way,0.225579,0.394236,0.114982,0.102204,"model conf 0.731, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_pass_right-127~mand_roundabout-28-29.jpg,add,Give Way,0.500316,0.301493,0.038241,0.03413,"model conf 0.642, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_pass_right-127~mand_roundabout-28-29.jpg,add,Give Way,0.236579,0.182951,0.131221,0.146893,"model conf 0.523, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_pass_right-135-136-137~mand_roundabout-39-40.jpg,add,No Entry,0.180642,0.69087,0.058402,0.081803,"model conf 0.812, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_pass_right-165~mand_roundabout-58.jpg,add,Give Way,0.750648,0.281272,0.067666,0.079717,"model conf 0.593, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_pass_right-64.jpg,add,Give Way,0.505368,0.391239,0.017724,0.021241,"model conf 0.51, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_roundabout-103.jpg,add,Give Way,0.177947,0.180259,0.159293,0.205263,"model conf 0.77, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_roundabout-104.jpg,add,Give Way,0.883246,0.42157,0.11212,0.098024,"model conf 0.67, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_roundabout-73.jpg,add,Give Way,0.560244,0.233671,0.139841,0.124401,"model conf 0.637, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_mand_roundabout-77.jpg,add,Give Way,0.499575,0.625851,0.329222,0.304421,"model conf 0.912, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_prio_give_way-331~info_crosswalk-471.jpg,add,Give Way,0.522121,0.594774,0.579132,0.496916,"model conf 0.929, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_prio_give_way-389~forb_no_stopping-304~mand_roundabout-204.jpg,add,Give Way,0.050142,0.944329,0.099701,0.094765,"model conf 0.749, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_prio_give_way-431~info_crosswalk-498.jpg,add,Give Way,0.524754,0.554628,0.225875,0.203815,"model conf 0.821, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_prio_give_way-54-55~mand_pass_right-171-172-173~mand_roundabout-128-129.jpg,add,No Entry,0.179901,0.691442,0.059831,0.08454,"model conf 0.825, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_prio_give_way-60~mand_go_right-40~mand_pass_right-175~mand_roundabout-130.jpg,add,Keep Right,0.877976,0.269497,0.03922,0.040328,"model conf 0.814, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_prio_priority_road-102~info_crosswalk-316~info_parking-193.jpg,add,Keep Right,0.302063,0.828247,0.030598,0.035171,"model conf 0.83, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_prio_stop-43~warn_tram-9~mand_go_right-92-93~mand_pass_left_right-133.jpg,add,Give Way,0.863268,0.238508,0.099857,0.093022,"model conf 0.725, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_prio_stop-44.jpg,add,Give Way,0.790202,0.405468,0.046662,0.048556,"model conf 0.828, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_warn_construction-101~warn_roundabout-98~mand_pass_left-116~mand_pass_right-222-223~mand_roundabout-207.jpg,add,Speed Limit 30,0.627446,0.256023,0.060529,0.0611,"model conf 0.785, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_warn_construction-70.jpg,add,No Entry,0.711714,0.197497,0.035869,0.03929,"model conf 0.817, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_warn_poor_road_surface-81.jpg,add,Give Way,0.510813,0.491093,0.040949,0.064729,"model conf 0.577, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_warn_roundabout-102~mand_roundabout-211.jpg,add,Speed Limit 30,0.53756,0.396703,0.046643,0.050903,"model conf 0.516, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_warn_roundabout-103~mand_pass_right-228~mand_roundabout-212.jpg,add,Speed Limit 30,0.46975,0.388171,0.033092,0.032191,"model conf 0.835, no GT overlap; visually confirmed",visual review 2026-11-13
+train,b_warn_tram-29~mand_go_right-154.jpg,add,Give Way,0.140386,0.359836,0.076185,0.071826,"model conf 0.65, no GT overlap; visually confirmed",visual review 2026-11-13
+val,a_000732_jpg.rf.ca0b3dba74542bf8aa368d4e6fab13cf.jpg,add,Speed Limit 30,0.7676,0.720822,0.169998,0.274865,"model conf 0.829, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_no_entry-260~warn_construction-110~mand_pass_right-235.jpg,add,Speed Limit 30,0.813096,0.574404,0.123321,0.141378,"model conf 0.874, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_no_parking-261.jpg,add,Stop,0.814167,0.554391,0.054827,0.081133,"model conf 0.876, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_no_parking-269~mand_go_straight-140.jpg,add,Stop,0.933197,0.382941,0.044415,0.064083,"model conf 0.815, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_no_parking-289-290-291-292.jpg,add,Give Way,0.319698,0.472509,0.020444,0.016364,"model conf 0.626, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_no_stopping-384~warn_tram-36~mand_go_right-157~mand_pass_left-118.jpg,add,Give Way,0.747684,0.431067,0.059663,0.064006,"model conf 0.582, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_overtake_car-297.jpg,add,Speed Limit 30,0.548859,0.621791,0.420907,0.288418,"model conf 0.894, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_overtake_car-318~mand_go_straight-144-145.jpg,add,Give Way,0.935933,0.636674,0.024381,0.039095,"model conf 0.694, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_overtake_car-328.jpg,add,Speed Limit 30,0.619645,0.703278,0.276788,0.432341,"model conf 0.88, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_speed_over_20-51~forb_no_stopping-389-390-391~info_one_way-227-228~mand_go_right-158.jpg,add,Give Way,0.020511,0.470119,0.040758,0.042585,"model conf 0.79, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_speed_over_20-51~forb_no_stopping-389-390-391~info_one_way-227-228~mand_go_right-158.jpg,add,Give Way,0.257235,0.51494,0.022769,0.023812,"model conf 0.605, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_speed_over_40-174~forb_overtake_car-361~mand_go_straight-150-151.jpg,add,Give Way,0.428395,0.3344,0.036174,0.051559,"model conf 0.801, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_speed_over_5-108.jpg,add,No Entry,0.689194,0.256687,0.070153,0.14792,"model conf 0.857, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_speed_over_50-266.jpg,add,Speed Limit 30,0.740338,0.588687,0.243466,0.305975,"model conf 0.84, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_speed_over_90-222.jpg,add,Speed Limit 50,0.664458,0.332065,0.067054,0.101142,"model conf 0.553, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_forb_turn_right-171~mand_pass_right-248-249~mand_roundabout-229.jpg,add,Give Way,0.788499,0.328991,0.057386,0.054405,"model conf 0.708, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_info_parking-253~mand_pass_left_right-170.jpg,add,Give Way,0.286078,0.529182,0.45509,0.416918,"model conf 0.966, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_go_right-163.jpg,add,Give Way,0.623957,0.512358,0.042571,0.037272,"model conf 0.649, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_go_right-164.jpg,add,Give Way,0.455328,0.304158,0.105775,0.126968,"model conf 0.594, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_go_right-165.jpg,add,Give Way,0.196688,0.296662,0.151365,0.133385,"model conf 0.763, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_go_right-166.jpg,add,Give Way,0.795896,0.254998,0.267893,0.26355,"model conf 0.824, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_go_right-167.jpg,add,Give Way,0.159967,0.203995,0.264114,0.262742,"model conf 0.835, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_go_straight-166.jpg,add,Give Way,0.554405,0.562954,0.271822,0.128804,"model conf 0.605, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_go_straight-173-174.jpg,add,Give Way,0.674203,0.469978,0.054931,0.076666,"model conf 0.673, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_pass_left_right-191.jpg,add,Give Way,0.73957,0.595706,0.4075,0.372097,"model conf 0.951, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_pass_left_right-192~mand_pass_right-258~mand_roundabout-240.jpg,add,Give Way,0.775844,0.450807,0.215584,0.238103,"model conf 0.818, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_roundabout-256.jpg,add,Give Way,0.475477,0.382235,0.042379,0.046744,"model conf 0.682, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_roundabout-271.jpg,add,Give Way,0.848747,0.52606,0.207429,0.194063,"model conf 0.84, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_roundabout-272.jpg,add,Give Way,0.277545,0.189654,0.233822,0.222261,"model conf 0.827, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_mand_roundabout-273.jpg,add,Give Way,0.496457,0.338043,0.237546,0.221729,"model conf 0.823, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_prio_give_way-595~info_crosswalk-797.jpg,add,Give Way,0.501111,0.548416,0.166012,0.161112,"model conf 0.796, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_prio_stop-347~forb_speed_over_50-327~warn_right_curve-302~warn_roundabout-132.jpg,add,Give Way,0.112961,0.46341,0.039269,0.027363,"model conf 0.593, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_warn_cyclists-73.jpg,add,Give Way,0.525244,0.256117,0.068441,0.060495,"model conf 0.803, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_warn_cyclists-74.jpg,add,Give Way,0.425957,0.175737,0.273199,0.26099,"model conf 0.823, no GT overlap; visually confirmed",visual review 2026-11-13
+val,b_warn_right_curve-338.jpg,add,Speed Limit 30,0.620723,0.700132,0.059795,0.04924,"model conf 0.82, no GT overlap; visually confirmed",visual review 2026-11-13
+test,a_001711_jpg.rf.d4aa5a872ae23c710501874c7ffdb4ee.jpg,add,No Entry,0.878899,0.514978,0.061354,0.088697,"model conf 0.853, no GT overlap; visually confirmed",visual review 2026-11-13
+test,a_001711_jpg.rf.d4aa5a872ae23c710501874c7ffdb4ee.jpg,add,No Entry,0.222748,0.564677,0.064409,0.087583,"model conf 0.85, no GT overlap; visually confirmed",visual review 2026-11-13
+test,a_001715_jpg.rf.87077aabe7321f7c8fb9b8e3db0b6409.jpg,add,No Entry,0.530523,0.354217,0.484134,0.353574,"model conf 0.896, no GT overlap; visually confirmed",visual review 2026-11-13
+test,a_stop_1323804419-avi_image31_png.rf.806e5ec35c376f5b0577e1d402a04437.jpg,add,Stop,0.085768,0.113221,0.047154,0.065199,"model conf 0.77, no GT overlap; visually confirmed",visual review 2026-11-13
+test,a_stop_1323820452-avi_image6_png.rf.10bebcc931e92447752d2232564c754a.jpg,add,Stop,0.039844,0.588971,0.043559,0.06157,"model conf 0.824, no GT overlap; visually confirmed",visual review 2026-11-13
+test,a_stop_1323820452-avi_image7_png.rf.0f8dde415d0cf264265c787fa18cead4.jpg,add,Stop,0.042649,0.585185,0.043818,0.060304,"model conf 0.802, no GT overlap; visually confirmed",visual review 2026-11-13
+test,b_forb_no_parking-303-304.jpg,add,Stop,0.877925,0.327291,0.04573,0.094139,"model conf 0.816, no GT overlap; visually confirmed",visual review 2026-11-13
+test,b_forb_speed_over_40-197.jpg,add,No Entry,0.878292,0.434242,0.040736,0.093781,"model conf 0.771, no GT overlap; visually confirmed",visual review 2026-11-13
+test,b_mand_pass_right-304-305.jpeg,add,Give Way,0.722866,0.142673,0.17621,0.243594,"model conf 0.804, no GT overlap; visually confirmed",visual review 2026-11-13
+test,b_mand_roundabout-328.jpg,add,Give Way,0.696124,0.238341,0.270331,0.193309,"model conf 0.729, no GT overlap; visually confirmed",visual review 2026-11-13

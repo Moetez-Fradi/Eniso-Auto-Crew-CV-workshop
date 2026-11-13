@@ -1,0 +1,17 @@
+# For running the notebook locally (Colab installs what it needs by itself).
+# Install PyTorch first for your GPU from https://pytorch.org (the versions below were tested with CUDA 12.8).
+torch>=2.5
+torchvision>=0.20
+ultralytics==8.4.211
+onnx==1.23.2
+onnxslim
+onnxruntime-gpu==1.31.1     # or onnxruntime (CPU only)
+opencv-python>=4.10
+numpy
+pandas
+scipy
+matplotlib
+pyyaml
+kaggle                      # dataset download
+huggingface_hub             # fallback download for the Street Sign Set
+jupyter
