@@ -50,7 +50,7 @@ For the notebook: upload the `sim_results/` folder to Colab (`/content/sim_resul
 | fog | 0.64 | 6/6 | 7 | 1 | 6.6% / 11.4% |
 | dense fog | 0.57 | 6/6 | 3 | 1 | 6.4% / 11.1% |
 
-Overall median distance error **6.9%** (R6 limit 15%), from 1,466 correct detections (out of 2,376 sign-frames visible at 5–40 m); 5 false alarms in 5,436 frames.
+Overall median distance error **6.8%** (R6 limit 15%), from 1,466 correct detections (out of 2,376 sign-frames visible at 5–40 m); 5 false alarms in 5,436 frames.
 Every sign is found in every condition, but **Speed Limit 30/50 are only recognised up close** (about 20–35% of the frames in which they are visible),
 and the 16 wrong-class frames are all Speed Limit 30 read as 50 (the digits are a few pixels wide at 30–40 m). Give Way and No Entry are found almost every frame.
 The detection rate counts every frame between 5 and 40 m, so 0.6 does not mean 40% of signs are missed: it means far signs are picked up late.

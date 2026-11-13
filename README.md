@@ -27,7 +27,7 @@ Running locally instead of Colab: install PyTorch for your GPU, then `pip instal
 
 ## Result
 
-Release gate: **SHIP**. Stop recall 1.00, other classes ≥ 0.91, 3.7 false alarms per 100 sign-free images, 36 ms p95 latency, 6.9 % distance error in simulation.
+Release gate: **SHIP**. Stop recall 1.00, other classes ≥ 0.91, 3.7 false alarms per 100 sign-free images, 27 ms p95 latency (RTX 5050 laptop GPU), 6.8 % distance error in simulation.
 The requirements are illustrative, chosen for learning; the notebook explains each one and where the evidence is weak.
 
 ## Credits
